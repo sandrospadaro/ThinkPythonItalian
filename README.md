@@ -53,9 +53,14 @@ $ make
 $ cd 2.0
 ```
 
-* #eseguire il build in `html`:
+* eseguire il build in `html`:
 
 ```bash
 $ make hevea
 ```
 
+* eseguire il build in `epub`
+
+```bash
+$ make epub
+```
