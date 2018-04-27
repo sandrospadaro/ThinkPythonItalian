@@ -20,33 +20,33 @@ all:	book.tex
 	pdflatex book
 	makeindex book.idx
 	pdflatex book
-	mv book.pdf thinkpython2.pdf
+	mv book.pdf thinkpython_italian.pdf
 
 hevea:	book.tex header.html footer.html
 	# replace the pdfs with eps
-	sed s/.pdf/.eps/g book.tex > thinkpython2.tex
+	sed s/.pdf/.eps/g book.tex > thinkpython_italian.tex
 	latex thinkpython2
 	rm -rf html
 	mkdir html
 	hevea -fix -O -e latexonly htmlonly thinkpython2
 # the following greps are a kludge to prevent imagen from seeing
 # the definitions in latexonly, and to avoid headers on the images
-	grep -v latexonly thinkpython2.image.tex > a; mv a thinkpython2.image.tex
-	sed s/\\\\usepackage{fancyhdr}// < thinkpython2.image.tex > a; mv a thinkpython2.image.tex
+	grep -v latexonly thinkpython_italian.image.tex > a; mv a thinkpython_italian.image.tex
+	sed s/\\\\usepackage{fancyhdr}// < thinkpython_italian.image.tex > a; mv a thinkpython_italian.image.tex
 	imagen -png thinkpython2
-	hacha thinkpython2.html
+	hacha thinkpython_italian.html
 	cp up.png next.png back.png html
-	mv index.html thinkpython2.css thinkpython2*.html thinkpython2*.png *motif.gif html
+	mv index.html thinkpython_italian.css thinkpython2*.html thinkpython2*.png *motif.gif html
 
 DEST = /home/downey/public_html/greent/thinkpython2
 
 epub:
-	cd html; ebook-convert index.html thinkpython2.epub
+	cd html; ebook-convert index.html thinkpython_italian.epub
 
 distrib:
 	rm -rf dist
 	mkdir dist dist/tex dist/tex/figs
-	rsync -a thinkpython2.pdf html dist
+	rsync -a thinkpython_italian.pdf html dist
 	rsync -a dist/* $(DEST)
 	chmod -R o+r $(DEST)/*
 	cd $(DEST)/..; sh back
