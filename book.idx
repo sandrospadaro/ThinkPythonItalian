@@ -1,0 +1,1741 @@
+\indexentry{GNU Free Documentation License|hyperpage}{v}
+\indexentry{Free Documentation License, GNU|hyperpage}{v}
+\indexentry{Elkner, Jeff|hyperpage}{v}
+\indexentry{Olin College|hyperpage}{vi}
+\indexentry{Elkner, Jeff|hyperpage}{vi}
+\indexentry{Meyers, Chris|hyperpage}{vii}
+\indexentry{GNU Free Documentation License|hyperpage}{vii}
+\indexentry{Free Documentation License, GNU|hyperpage}{vii}
+\indexentry{Creative Commons|hyperpage}{vii}
+\indexentry{collaboratori|hyperpage}{vii}
+\indexentry{risoluzione di problemi|hyperpage}{1}
+\indexentry{programma|hyperpage}{1}
+\indexentry{algoritmo|hyperpage}{2}
+\indexentry{avviare Python|hyperpage}{2}
+\indexentry{Python!avvio|hyperpage}{2}
+\indexentry{Python in un browser|hyperpage}{2}
+\indexentry{PythonAnywhere|hyperpage}{2}
+\indexentry{Python 2|hyperpage}{2}
+\indexentry{interprete|hyperpage}{2}
+\indexentry{prompt|hyperpage}{3}
+\indexentry{Ciao, Mondo!|hyperpage}{3}
+\indexentry{apici|hyperpage}{3}
+\indexentry{stampa, istruzione di|hyperpage}{3}
+\indexentry{istruzione!di stampa|hyperpage}{3}
+\indexentry{funzione|hyperpage}{3}
+\indexentry{print, funzione|hyperpage}{3}
+\indexentry{Python 2|hyperpage}{3}
+\indexentry{operatore!aritmetico|hyperpage}{3}
+\indexentry{aritmetico!operatore|hyperpage}{3}
+\indexentry{bitwise, operatore|hyperpage}{4}
+\indexentry{operatore!bitwise|hyperpage}{4}
+\indexentry{valore|hyperpage}{4}
+\indexentry{tipo|hyperpage}{4}
+\indexentry{stringa|hyperpage}{4}
+\indexentry{intero|hyperpage}{4}
+\indexentry{floating-point|hyperpage}{4}
+\indexentry{stringa|hyperpage}{4}
+\indexentry{classe|hyperpage}{4}
+\indexentry{tipo|hyperpage}{4}
+\indexentry{string, tipo|hyperpage}{4}
+\indexentry{tipo!str|hyperpage}{4}
+\indexentry{int, tipo|hyperpage}{4}
+\indexentry{tipo!int|hyperpage}{4}
+\indexentry{float, tipo|hyperpage}{4}
+\indexentry{tipo!float|hyperpage}{4}
+\indexentry{apici|hyperpage}{4}
+\indexentry{sequenza|hyperpage}{5}
+\indexentry{linguaggio!formale|hyperpage}{5}
+\indexentry{linguaggio!naturale|hyperpage}{5}
+\indexentry{simbolo|hyperpage}{5}
+\indexentry{token|hyperpage}{5}
+\indexentry{struttura|hyperpage}{5}
+\indexentry{parsing|hyperpage}{5}
+\indexentry{ambiguit\IeC {\`a}|hyperpage}{5}
+\indexentry{ridondanza|hyperpage}{5}
+\indexentry{letteralit\IeC {\`a}|hyperpage}{5}
+\indexentry{poesia|hyperpage}{6}
+\indexentry{prosa|hyperpage}{6}
+\indexentry{debug|hyperpage}{6}
+\indexentry{debug|hyperpage}{6}
+\indexentry{bug|hyperpage}{6}
+\indexentry{debug!risposta emotiva|hyperpage}{6}
+\indexentry{emotivit\IeC {\`a}, nel debug|hyperpage}{6}
+\indexentry{soluzione di problemi|hyperpage}{7}
+\indexentry{linguaggio!di alto livello|hyperpage}{7}
+\indexentry{linguaggio!di basso livello|hyperpage}{7}
+\indexentry{portabilit\IeC {\`a}|hyperpage}{7}
+\indexentry{interprete|hyperpage}{7}
+\indexentry{prompt|hyperpage}{7}
+\indexentry{programma|hyperpage}{7}
+\indexentry{stampa, istruzione di|hyperpage}{7}
+\indexentry{istruzione!di stampa|hyperpage}{7}
+\indexentry{operatore|hyperpage}{7}
+\indexentry{valore|hyperpage}{7}
+\indexentry{type|hyperpage}{7}
+\indexentry{intero|hyperpage}{7}
+\indexentry{floating-point|hyperpage}{7}
+\indexentry{stringa|hyperpage}{7}
+\indexentry{linguaggio!naturale|hyperpage}{8}
+\indexentry{linguaggio!formale|hyperpage}{8}
+\indexentry{simbolo|hyperpage}{8}
+\indexentry{token|hyperpage}{8}
+\indexentry{sintassi|hyperpage}{8}
+\indexentry{parsing|hyperpage}{8}
+\indexentry{bug|hyperpage}{8}
+\indexentry{debug|hyperpage}{8}
+\indexentry{errore!messaggio di|hyperpage}{8}
+\indexentry{calcolatrice|hyperpage}{8}
+\indexentry{cadenza di corsa|hyperpage}{8}
+\indexentry{variabile|hyperpage}{9}
+\indexentry{istruzione!di assegnazione|hyperpage}{9}
+\indexentry{assegnazione, istruzione di|hyperpage}{9}
+\indexentry{diagramma!di stato|hyperpage}{9}
+\indexentry{variabile|hyperpage}{9}
+\indexentry{underscore, carattere|hyperpage}{10}
+\indexentry{parola chiave|hyperpage}{10}
+\indexentry{espressione|hyperpage}{10}
+\indexentry{valutazione|hyperpage}{10}
+\indexentry{valutazione|hyperpage}{11}
+\indexentry{esecuzione|hyperpage}{11}
+\indexentry{script|hyperpage}{11}
+\indexentry{modalit\IeC {\`a} script|hyperpage}{11}
+\indexentry{modalit\IeC {\`a} interattiva|hyperpage}{11}
+\indexentry{modalit\IeC {\`a} script|hyperpage}{11}
+\indexentry{ordine delle operazioni|hyperpage}{12}
+\indexentry{PEMDAS|hyperpage}{12}
+\indexentry{stringa!operazioni|hyperpage}{12}
+\indexentry{operatore!stringa|hyperpage}{12}
+\indexentry{concatenamento|hyperpage}{13}
+\indexentry{commutativit\IeC {\`a}|hyperpage}{13}
+\indexentry{commento|hyperpage}{13}
+\indexentry{debug|hyperpage}{14}
+\indexentry{sintassi!errore di|hyperpage}{14}
+\indexentry{errore!di sintassi|hyperpage}{14}
+\indexentry{errore!messaggio di|hyperpage}{14}
+\indexentry{sintassi|hyperpage}{14}
+\indexentry{parentesi!corrispondenza|hyperpage}{14}
+\indexentry{errore!in esecuzione|hyperpage}{14}
+\indexentry{errore!di runtime|hyperpage}{14}
+\indexentry{eccezione|hyperpage}{14}
+\indexentry{linguaggio!sicuro|hyperpage}{14}
+\indexentry{semantica|hyperpage}{14}
+\indexentry{semantica!errore di|hyperpage}{14}
+\indexentry{errore!di semantica|hyperpage}{14}
+\indexentry{errore!messaggio di|hyperpage}{14}
+\indexentry{variabile|hyperpage}{14}
+\indexentry{assegnazione|hyperpage}{14}
+\indexentry{diagramma!di stato|hyperpage}{14}
+\indexentry{parola chiave|hyperpage}{15}
+\indexentry{operando|hyperpage}{15}
+\indexentry{espressione|hyperpage}{15}
+\indexentry{valutazione|hyperpage}{15}
+\indexentry{istruzione|hyperpage}{15}
+\indexentry{esecuzione|hyperpage}{15}
+\indexentry{modalit\IeC {\`a} interattiva|hyperpage}{15}
+\indexentry{modalit\IeC {\`a} script|hyperpage}{15}
+\indexentry{script|hyperpage}{15}
+\indexentry{ordine delle operazioni|hyperpage}{15}
+\indexentry{concatenamento|hyperpage}{15}
+\indexentry{commento|hyperpage}{15}
+\indexentry{sintassi!errore di|hyperpage}{15}
+\indexentry{eccezione|hyperpage}{15}
+\indexentry{semantica|hyperpage}{15}
+\indexentry{semantica!errore di|hyperpage}{15}
+\indexentry{calcolatrice|hyperpage}{16}
+\indexentry{cadenza di corsa|hyperpage}{16}
+\indexentry{funzione|hyperpage}{17}
+\indexentry{funzione!chiamata di|hyperpage}{17}
+\indexentry{parentesi!argomento in|hyperpage}{17}
+\indexentry{argomento|hyperpage}{17}
+\indexentry{valore di ritorno|hyperpage}{17}
+\indexentry{conversione!di tipo|hyperpage}{17}
+\indexentry{int, funzione|hyperpage}{17}
+\indexentry{funzione!int|hyperpage}{17}
+\indexentry{float, funzione|hyperpage}{17}
+\indexentry{funzione!float|hyperpage}{17}
+\indexentry{str, funzione|hyperpage}{18}
+\indexentry{funzione!str|hyperpage}{18}
+\indexentry{funzioni matematiche|hyperpage}{18}
+\indexentry{modulo|hyperpage}{18}
+\indexentry{oggetto!modulo|hyperpage}{18}
+\indexentry{dot notation|hyperpage}{18}
+\indexentry{notazione a punto|hyperpage}{18}
+\indexentry{log, funzione|hyperpage}{18}
+\indexentry{funzione!log|hyperpage}{18}
+\indexentry{seno, funzione|hyperpage}{18}
+\indexentry{radiante|hyperpage}{18}
+\indexentry{funzione!trigonometrica|hyperpage}{18}
+\indexentry{pi|hyperpage}{19}
+\indexentry{sqrt, funzione|hyperpage}{19}
+\indexentry{funzione!sqrt|hyperpage}{19}
+\indexentry{composizione|hyperpage}{19}
+\indexentry{SyntaxError|hyperpage}{19}
+\indexentry{eccezione!SyntaxError|hyperpage}{19}
+\indexentry{funzione|hyperpage}{19}
+\indexentry{funzione!definizione di|hyperpage}{19}
+\indexentry{definizione!di funzione|hyperpage}{19}
+\indexentry{def, parola chiave|hyperpage}{19}
+\indexentry{parola chiave!def|hyperpage}{19}
+\indexentry{argomento|hyperpage}{19}
+\indexentry{parentesi!vuote|hyperpage}{19}
+\indexentry{intestazione|hyperpage}{19}
+\indexentry{corpo|hyperpage}{19}
+\indexentry{indentazione|hyperpage}{19}
+\indexentry{due punti|hyperpage}{19}
+\indexentry{ellissi|hyperpage}{20}
+\indexentry{tipo!function|hyperpage}{20}
+\indexentry{oggetto!funzione|hyperpage}{20}
+\indexentry{funzione!definizione di|hyperpage}{21}
+\indexentry{uso prima di def|hyperpage}{21}
+\indexentry{flusso di esecuzione|hyperpage}{21}
+\indexentry{parametro|hyperpage}{22}
+\indexentry{funzione!parametro di|hyperpage}{22}
+\indexentry{argomento|hyperpage}{22}
+\indexentry{funzione!argomento di|hyperpage}{22}
+\indexentry{parentesi!parametri in|hyperpage}{22}
+\indexentry{composizione|hyperpage}{22}
+\indexentry{funzione!personalizzata|hyperpage}{22}
+\indexentry{argomento|hyperpage}{22}
+\indexentry{variabile!locale|hyperpage}{23}
+\indexentry{parentesi!parametri in|hyperpage}{23}
+\indexentry{concatenamento|hyperpage}{23}
+\indexentry{NameError|hyperpage}{23}
+\indexentry{eccezione!NameError|hyperpage}{23}
+\indexentry{parametri|hyperpage}{23}
+\indexentry{diagramma!di stack|hyperpage}{23}
+\indexentry{funzione!frame di|hyperpage}{23}
+\indexentry{frame|hyperpage}{23}
+\indexentry{main|hyperpage}{23}
+\indexentry{traceback|hyperpage}{24}
+\indexentry{funzione!produttiva|hyperpage}{24}
+\indexentry{funzione!vuota|hyperpage}{24}
+\indexentry{modalit\IeC {\`a} interattiva|hyperpage}{25}
+\indexentry{modalit\IeC {\`a} script|hyperpage}{25}
+\indexentry{None, valore speciale|hyperpage}{25}
+\indexentry{valore speciale!None|hyperpage}{25}
+\indexentry{funzione!motivi|hyperpage}{25}
+\indexentry{debug|hyperpage}{25}
+\indexentry{debug!sperimentale|hyperpage}{25}
+\indexentry{Holmes, Sherlock|hyperpage}{26}
+\indexentry{Doyle, Arthur Conan|hyperpage}{26}
+\indexentry{Linux|hyperpage}{26}
+\indexentry{funzione|hyperpage}{26}
+\indexentry{funzione!definizione di|hyperpage}{26}
+\indexentry{oggetto!funzione|hyperpage}{26}
+\indexentry{intestazione|hyperpage}{26}
+\indexentry{corpo|hyperpage}{26}
+\indexentry{parametro|hyperpage}{26}
+\indexentry{funzione!chiamata di|hyperpage}{26}
+\indexentry{argomento|hyperpage}{26}
+\indexentry{variabile!locale|hyperpage}{26}
+\indexentry{valore di ritorno|hyperpage}{26}
+\indexentry{funzione!produttiva|hyperpage}{26}
+\indexentry{funzione!vuota|hyperpage}{27}
+\indexentry{None, valore speciale|hyperpage}{27}
+\indexentry{valore speciale!None|hyperpage}{27}
+\indexentry{modulo|hyperpage}{27}
+\indexentry{import, istruzione|hyperpage}{27}
+\indexentry{istruzione!import|hyperpage}{27}
+\indexentry{modulo|hyperpage}{27}
+\indexentry{dot notation|hyperpage}{27}
+\indexentry{notazione a punto|hyperpage}{27}
+\indexentry{composizione|hyperpage}{27}
+\indexentry{flusso di esecuzione|hyperpage}{27}
+\indexentry{diagramma!di stack|hyperpage}{27}
+\indexentry{funzione!frame di|hyperpage}{27}
+\indexentry{frame|hyperpage}{27}
+\indexentry{traceback|hyperpage}{27}
+\indexentry{len, funzione|hyperpage}{27}
+\indexentry{funzione!len|hyperpage}{27}
+\indexentry{oggetto!funzione|hyperpage}{27}
+\indexentry{griglia|hyperpage}{28}
+\indexentry{ripetizione|hyperpage}{30}
+\indexentry{for, ciclo|hyperpage}{31}
+\indexentry{ciclo!for|hyperpage}{31}
+\indexentry{istruzione!for|hyperpage}{31}
+\indexentry{ciclo|hyperpage}{31}
+\indexentry{poligono, funzione|hyperpage}{32}
+\indexentry{funzione!poligono|hyperpage}{32}
+\indexentry{cerchio, funzione|hyperpage}{32}
+\indexentry{funzione!cerchio|hyperpage}{32}
+\indexentry{arco, funzione|hyperpage}{32}
+\indexentry{funzione!arco|hyperpage}{32}
+\indexentry{incapsulamento|hyperpage}{32}
+\indexentry{generalizzazione|hyperpage}{33}
+\indexentry{Python 2|hyperpage}{33}
+\indexentry{argomento!con nome|hyperpage}{33}
+\indexentry{interfaccia|hyperpage}{34}
+\indexentry{refactoring|hyperpage}{34}
+\indexentry{refactoring|hyperpage}{35}
+\indexentry{tecnica di sviluppo!incapsulamento e generalizzazione|hyperpage}{35}
+\indexentry{docstring|hyperpage}{36}
+\indexentry{stringa!di documentazione|hyperpage}{36}
+\indexentry{virgolette|hyperpage}{36}
+\indexentry{stringa!triple virgolette|hyperpage}{36}
+\indexentry{stringa!a righe multiple|hyperpage}{36}
+\indexentry{debug|hyperpage}{36}
+\indexentry{interfaccia|hyperpage}{36}
+\indexentry{precondizione|hyperpage}{36}
+\indexentry{postcondizione|hyperpage}{36}
+\indexentry{metodo|hyperpage}{37}
+\indexentry{ciclo|hyperpage}{37}
+\indexentry{incapsulamento|hyperpage}{37}
+\indexentry{generalizzazione|hyperpage}{37}
+\indexentry{argomento!con nome|hyperpage}{37}
+\indexentry{interfaccia|hyperpage}{37}
+\indexentry{refactoring|hyperpage}{37}
+\indexentry{tecnica di sviluppo|hyperpage}{37}
+\indexentry{docstring|hyperpage}{37}
+\indexentry{stringa!documentazione|hyperpage}{37}
+\indexentry{precondizione|hyperpage}{37}
+\indexentry{postcondizione|hyperpage}{37}
+\indexentry{diagramma!di stack|hyperpage}{37}
+\indexentry{fiore|hyperpage}{37}
+\indexentry{torta|hyperpage}{38}
+\indexentry{alfabeto|hyperpage}{38}
+\indexentry{macchina da scrivere a tartaruga|hyperpage}{38}
+\indexentry{spirale|hyperpage}{38}
+\indexentry{spirale di Archimede|hyperpage}{38}
+\indexentry{divisione!intera|hyperpage}{39}
+\indexentry{divisione!decimale|hyperpage}{39}
+\indexentry{modulo, operatore|hyperpage}{39}
+\indexentry{operatore!modulo|hyperpage}{39}
+\indexentry{divisibilit\IeC {\`a}|hyperpage}{39}
+\indexentry{Python 2|hyperpage}{40}
+\indexentry{espressione!booleana|hyperpage}{40}
+\indexentry{operatore!logico|hyperpage}{40}
+\indexentry{True, valore speciale|hyperpage}{40}
+\indexentry{False, valore speciale|hyperpage}{40}
+\indexentry{valore speciale!True|hyperpage}{40}
+\indexentry{valore speciale!False|hyperpage}{40}
+\indexentry{bool, tipo|hyperpage}{40}
+\indexentry{tipo!bool|hyperpage}{40}
+\indexentry{confronto, operatore di|hyperpage}{40}
+\indexentry{operatore!confronto|hyperpage}{40}
+\indexentry{logico, operatore|hyperpage}{40}
+\indexentry{operatore!logico|hyperpage}{40}
+\indexentry{and, operatore|hyperpage}{40}
+\indexentry{or, operatore|hyperpage}{40}
+\indexentry{not, operatore|hyperpage}{40}
+\indexentry{operatore!and|hyperpage}{40}
+\indexentry{operatore!or|hyperpage}{40}
+\indexentry{operatore!not|hyperpage}{40}
+\indexentry{istruzione!condizionale|hyperpage}{41}
+\indexentry{if, istruzione|hyperpage}{41}
+\indexentry{istruzione!if|hyperpage}{41}
+\indexentry{esecuzione condizionale|hyperpage}{41}
+\indexentry{condizione|hyperpage}{41}
+\indexentry{istruzione!composta|hyperpage}{41}
+\indexentry{pass, istruzione|hyperpage}{41}
+\indexentry{istruzione!pass|hyperpage}{41}
+\indexentry{esecuzione alternativa|hyperpage}{41}
+\indexentry{else, parola chiave|hyperpage}{41}
+\indexentry{parola chiave!else|hyperpage}{41}
+\indexentry{ramificazione|hyperpage}{41}
+\indexentry{serie, condizioni in|hyperpage}{42}
+\indexentry{condizione!in serie|hyperpage}{42}
+\indexentry{elif, parola chiave |hyperpage}{42}
+\indexentry{parola chiave!elif|hyperpage}{42}
+\indexentry{condizione!nidificata|hyperpage}{42}
+\indexentry{ricorsione|hyperpage}{43}
+\indexentry{main|hyperpage}{43}
+\indexentry{ricorsione|hyperpage}{44}
+\indexentry{funzione!ricorsiva|hyperpage}{44}
+\indexentry{return, istruzione|hyperpage}{44}
+\indexentry{istruzione!return|hyperpage}{44}
+\indexentry{for, ciclo|hyperpage}{44}
+\indexentry{ciclo!for|hyperpage}{44}
+\indexentry{diagramma!di stack|hyperpage}{44}
+\indexentry{funzione!frame di|hyperpage}{44}
+\indexentry{frame|hyperpage}{44}
+\indexentry{caso base|hyperpage}{44}
+\indexentry{ricorsione!caso base|hyperpage}{44}
+\indexentry{ricorsione!infinita|hyperpage}{45}
+\indexentry{errore!in esecuzione|hyperpage}{45}
+\indexentry{traceback|hyperpage}{45}
+\indexentry{eccezione!RuntimeError|hyperpage}{45}
+\indexentry{RuntimeError|hyperpage}{45}
+\indexentry{Input da tastiera|hyperpage}{45}
+\indexentry{Python 2|hyperpage}{45}
+\indexentry{input, funzione|hyperpage}{45}
+\indexentry{funzione!input|hyperpage}{45}
+\indexentry{prompt|hyperpage}{46}
+\indexentry{ritorno a capo|hyperpage}{46}
+\indexentry{ValueError|hyperpage}{46}
+\indexentry{eccezione!ValueError|hyperpage}{46}
+\indexentry{debug|hyperpage}{46}
+\indexentry{traceback|hyperpage}{46}
+\indexentry{spaziatore|hyperpage}{46}
+\indexentry{errore!in esecuzione|hyperpage}{47}
+\indexentry{eccezione!OverflowError|hyperpage}{47}
+\indexentry{OverflowError|hyperpage}{47}
+\indexentry{divisione!intera|hyperpage}{47}
+\indexentry{divisione!intera|hyperpage}{47}
+\indexentry{modulo, operatore|hyperpage}{47}
+\indexentry{operatore!modulo|hyperpage}{47}
+\indexentry{espressione!booleana|hyperpage}{47}
+\indexentry{istruzione!condizionale|hyperpage}{47}
+\indexentry{condizione|hyperpage}{48}
+\indexentry{istruzione!composta|hyperpage}{48}
+\indexentry{ramificazione|hyperpage}{48}
+\indexentry{condizione!in serie|hyperpage}{48}
+\indexentry{condizione!nidificata|hyperpage}{48}
+\indexentry{ricorsione|hyperpage}{48}
+\indexentry{caso base|hyperpage}{48}
+\indexentry{ricorsione!infinita|hyperpage}{48}
+\indexentry{Fermat, ultimo teorema di|hyperpage}{48}
+\indexentry{triangolo|hyperpage}{49}
+\indexentry{turtle|hyperpage}{49}
+\indexentry{curva di Koch|hyperpage}{50}
+\indexentry{valore di ritorno|hyperpage}{51}
+\indexentry{return, istruzione|hyperpage}{51}
+\indexentry{istruzione!return|hyperpage}{51}
+\indexentry{variabile!temporanea|hyperpage}{51}
+\indexentry{codice morto|hyperpage}{52}
+\indexentry{None, valore speciale|hyperpage}{52}
+\indexentry{valore speciale!None|hyperpage}{52}
+\indexentry{abs, funzione|hyperpage}{52}
+\indexentry{funzione!abs|hyperpage}{52}
+\indexentry{compara, funzione|hyperpage}{52}
+\indexentry{funzione!compara|hyperpage}{52}
+\indexentry{tecnica di sviluppo!incrementale|hyperpage}{52}
+\indexentry{test!sviluppo incrementale|hyperpage}{52}
+\indexentry{teorema di Pitagora|hyperpage}{52}
+\indexentry{test!sapere il risultato|hyperpage}{53}
+\indexentry{sqrt, funzione|hyperpage}{53}
+\indexentry{funzione!sqrt|hyperpage}{53}
+\indexentry{impalcatura|hyperpage}{54}
+\indexentry{ipotenusa|hyperpage}{54}
+\indexentry{composizione|hyperpage}{54}
+\indexentry{funzione!composizione di|hyperpage}{54}
+\indexentry{incapsulamento|hyperpage}{54}
+\indexentry{funzione!booleana|hyperpage}{55}
+\indexentry{istruzione!condizionale|hyperpage}{55}
+\indexentry{ricorsione|hyperpage}{55}
+\indexentry{linguaggio!completo di Turing|hyperpage}{55}
+\indexentry{Turing, Alan|hyperpage}{55}
+\indexentry{Tesi di Turing|hyperpage}{55}
+\indexentry{vorpale|hyperpage}{56}
+\indexentry{definizione!circolare|hyperpage}{56}
+\indexentry{fattoriale, funzione|hyperpage}{56}
+\indexentry{funzione!fattoriale|hyperpage}{56}
+\indexentry{definizione!ricorsiva|hyperpage}{56}
+\indexentry{diagramma!di stack|hyperpage}{57}
+\indexentry{funzione!frame di|hyperpage}{57}
+\indexentry{frame|hyperpage}{57}
+\indexentry{ricorsione|hyperpage}{57}
+\indexentry{salto sulla fiducia|hyperpage}{57}
+\indexentry{test!salto sulla fiducia|hyperpage}{58}
+\indexentry{fibonacci, funzione|hyperpage}{58}
+\indexentry{funzione!fibonacci|hyperpage}{58}
+\indexentry{flusso di esecuzione|hyperpage}{58}
+\indexentry{controllo dei tipi|hyperpage}{58}
+\indexentry{controllo errore|hyperpage}{58}
+\indexentry{fattoriale, funzione|hyperpage}{58}
+\indexentry{RuntimeError|hyperpage}{58}
+\indexentry{ricorsione!infinita|hyperpage}{58}
+\indexentry{funzione!gamma|hyperpage}{59}
+\indexentry{isinstance, funzione|hyperpage}{59}
+\indexentry{funzione!isinstance|hyperpage}{59}
+\indexentry{guardia, condizione di|hyperpage}{59}
+\indexentry{schema!guardiani|hyperpage}{59}
+\indexentry{condizione!di guardia|hyperpage}{59}
+\indexentry{debug|hyperpage}{59}
+\indexentry{precondizione|hyperpage}{60}
+\indexentry{postcondizione|hyperpage}{60}
+\indexentry{flusso di esecuzione|hyperpage}{60}
+\indexentry{variabile!temporanea|hyperpage}{60}
+\indexentry{codice morto|hyperpage}{60}
+\indexentry{sviluppo incrementale|hyperpage}{61}
+\indexentry{impalcatura|hyperpage}{61}
+\indexentry{guardia, condizione di|hyperpage}{61}
+\indexentry{condizione!di guardia|hyperpage}{61}
+\indexentry{diagramma!di stack|hyperpage}{61}
+\indexentry{Ackermann, funzione di|hyperpage}{61}
+\indexentry{funzione!ack|hyperpage}{61}
+\indexentry{palindromo|hyperpage}{61}
+\indexentry{massimo comun divisore (MCD)|hyperpage}{62}
+\indexentry{MCD (massimo comun divisore)|hyperpage}{62}
+\indexentry{assegnazione|hyperpage}{63}
+\indexentry{istruzione!assegnazione|hyperpage}{63}
+\indexentry{riassegnazione|hyperpage}{63}
+\indexentry{diagramma!di stato|hyperpage}{63}
+\indexentry{uguaglianza e assegnazione|hyperpage}{63}
+\indexentry{aggiornamento|hyperpage}{64}
+\indexentry{variabile!aggiornamento|hyperpage}{64}
+\indexentry{inizializzazione!prima di aggiornare|hyperpage}{64}
+\indexentry{incremento|hyperpage}{64}
+\indexentry{decremento|hyperpage}{64}
+\indexentry{istruzione!while|hyperpage}{64}
+\indexentry{ciclo!while|hyperpage}{64}
+\indexentry{iterazione|hyperpage}{64}
+\indexentry{flusso di esecuzione|hyperpage}{65}
+\indexentry{condizione|hyperpage}{65}
+\indexentry{ciclo|hyperpage}{65}
+\indexentry{corpo|hyperpage}{65}
+\indexentry{ciclo!infinito|hyperpage}{65}
+\indexentry{congettura di Collatz|hyperpage}{65}
+\indexentry{break, istruzione|hyperpage}{66}
+\indexentry{istruzione!break|hyperpage}{66}
+\indexentry{radice quadrata|hyperpage}{66}
+\indexentry{metodo di Newton|hyperpage}{66}
+\indexentry{aggiornamento|hyperpage}{67}
+\indexentry{virgola mobile|hyperpage}{67}
+\indexentry{epsilon|hyperpage}{67}
+\indexentry{algoritmo|hyperpage}{68}
+\indexentry{addizione!con riporto|hyperpage}{68}
+\indexentry{sottrazione!con prestito|hyperpage}{68}
+\indexentry{debug!binario|hyperpage}{68}
+\indexentry{riassegnazione|hyperpage}{69}
+\indexentry{aggiornamento|hyperpage}{69}
+\indexentry{inizializzazione!variabile|hyperpage}{69}
+\indexentry{incremento|hyperpage}{69}
+\indexentry{decremento|hyperpage}{69}
+\indexentry{iterazione|hyperpage}{69}
+\indexentry{ciclo!infinito|hyperpage}{69}
+\indexentry{algoritmo|hyperpage}{69}
+\indexentry{algoritmo!radice quadrata|hyperpage}{69}
+\indexentry{incapsulamento|hyperpage}{69}
+\indexentry{eval, funzione|hyperpage}{70}
+\indexentry{funzione!eval|hyperpage}{70}
+\indexentry{Ramanujan, Srinivasa|hyperpage}{70}
+\indexentry{pi|hyperpage}{70}
+\indexentry{sequenza|hyperpage}{71}
+\indexentry{carattere|hyperpage}{71}
+\indexentry{parentesi quadre, operatore|hyperpage}{71}
+\indexentry{operatore!parentesi quadre|hyperpage}{71}
+\indexentry{indice|hyperpage}{71}
+\indexentry{indice!inizio da zero|hyperpage}{71}
+\indexentry{zero, indice iniziale|hyperpage}{71}
+\indexentry{indice|hyperpage}{72}
+\indexentry{eccezione!TypeError|hyperpage}{72}
+\indexentry{TypeError|hyperpage}{72}
+\indexentry{len, funzione|hyperpage}{72}
+\indexentry{funzione!len|hyperpage}{72}
+\indexentry{eccezione!IndexError|hyperpage}{72}
+\indexentry{IndexError|hyperpage}{72}
+\indexentry{indice!negativo|hyperpage}{72}
+\indexentry{attraversamento|hyperpage}{72}
+\indexentry{ciclo!attraversamento|hyperpage}{72}
+\indexentry{for, ciclo|hyperpage}{72}
+\indexentry{ciclo!for|hyperpage}{72}
+\indexentry{istruzione!for|hyperpage}{72}
+\indexentry{concatenamento|hyperpage}{73}
+\indexentry{alfabetico|hyperpage}{73}
+\indexentry{McCloskey, Robert|hyperpage}{73}
+\indexentry{slicing!operatore di|hyperpage}{73}
+\indexentry{operatore!di slicing|hyperpage}{73}
+\indexentry{indice!slicing|hyperpage}{73}
+\indexentry{stringa!slicing|hyperpage}{73}
+\indexentry{slicing!stringa|hyperpage}{73}
+\indexentry{apici|hyperpage}{74}
+\indexentry{copia!slicing|hyperpage}{74}
+\indexentry{slicing!copia|hyperpage}{74}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{74}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{74}
+\indexentry{stringa!immutabile|hyperpage}{74}
+\indexentry{TypeError|hyperpage}{74}
+\indexentry{eccezione!TypeError|hyperpage}{74}
+\indexentry{oggetto|hyperpage}{74}
+\indexentry{elemento|hyperpage}{74}
+\indexentry{elemento!assegnazione|hyperpage}{74}
+\indexentry{assegnazione!elemento|hyperpage}{74}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{74}
+\indexentry{concatenamento|hyperpage}{75}
+\indexentry{trova, funzione|hyperpage}{75}
+\indexentry{funzione!trova|hyperpage}{75}
+\indexentry{attraversamento|hyperpage}{75}
+\indexentry{ricerca!schema di|hyperpage}{75}
+\indexentry{schema!di ricerca|hyperpage}{75}
+\indexentry{contatore|hyperpage}{75}
+\indexentry{contatori e cicli|hyperpage}{75}
+\indexentry{cicli e contatori|hyperpage}{75}
+\indexentry{ciclo!con stringhe|hyperpage}{75}
+\indexentry{incapsulamento|hyperpage}{75}
+\indexentry{metodo|hyperpage}{76}
+\indexentry{stringa!metodi|hyperpage}{76}
+\indexentry{parentesi!vuote|hyperpage}{76}
+\indexentry{notazione a punto|hyperpage}{76}
+\indexentry{invocazione|hyperpage}{76}
+\indexentry{argomento!opzionale|hyperpage}{76}
+\indexentry{in, operatore|hyperpage}{77}
+\indexentry{operatore!in|hyperpage}{77}
+\indexentry{booleano, operatore|hyperpage}{77}
+\indexentry{operatore!booleano|hyperpage}{77}
+\indexentry{stringa!confronto|hyperpage}{77}
+\indexentry{confronto!stringa|hyperpage}{77}
+\indexentry{debug|hyperpage}{78}
+\indexentry{attraversamento|hyperpage}{78}
+\indexentry{guardia, condizione di|hyperpage}{78}
+\indexentry{schema!guardiani|hyperpage}{78}
+\indexentry{indice|hyperpage}{78}
+\indexentry{IndexError|hyperpage}{78}
+\indexentry{eccezione!IndexError|hyperpage}{78}
+\indexentry{diagramma!di stato|hyperpage}{79}
+\indexentry{oggetto|hyperpage}{79}
+\indexentry{sequenza|hyperpage}{79}
+\indexentry{elemento|hyperpage}{79}
+\indexentry{indice|hyperpage}{79}
+\indexentry{slice|hyperpage}{79}
+\indexentry{stringa!vuota|hyperpage}{79}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{79}
+\indexentry{attraversamento|hyperpage}{79}
+\indexentry{ricerca!schema di|hyperpage}{79}
+\indexentry{schema!di ricerca|hyperpage}{79}
+\indexentry{contatore|hyperpage}{80}
+\indexentry{invocazione|hyperpage}{80}
+\indexentry{opzionale, argomento|hyperpage}{80}
+\indexentry{argomento!opzionale|hyperpage}{80}
+\indexentry{stringa!metodi|hyperpage}{80}
+\indexentry{metodo!stringa|hyperpage}{80}
+\indexentry{opzionale, argomento|hyperpage}{80}
+\indexentry{argomento!opzionale|hyperpage}{80}
+\indexentry{count, metodo|hyperpage}{80}
+\indexentry{metodo!count|hyperpage}{80}
+\indexentry{step, ampiezza|hyperpage}{80}
+\indexentry{slicing!operatore di|hyperpage}{80}
+\indexentry{operatore!di slicing|hyperpage}{80}
+\indexentry{palindromo|hyperpage}{80}
+\indexentry{rotazione di lettere|hyperpage}{81}
+\indexentry{Moby Project|hyperpage}{83}
+\indexentry{cruciverba|hyperpage}{83}
+\indexentry{open, funzione|hyperpage}{83}
+\indexentry{funzione!open|hyperpage}{83}
+\indexentry{testo!semplice|hyperpage}{83}
+\indexentry{oggetto!file|hyperpage}{83}
+\indexentry{readline, metodo|hyperpage}{83}
+\indexentry{metodo!readline|hyperpage}{83}
+\indexentry{strip, metodo|hyperpage}{84}
+\indexentry{metodo!strip|hyperpage}{84}
+\indexentry{open, funzione|hyperpage}{84}
+\indexentry{funzione!open|hyperpage}{84}
+\indexentry{spaziatore|hyperpage}{84}
+\indexentry{lipogramma|hyperpage}{84}
+\indexentry{alfabetico|hyperpage}{85}
+\indexentry{ricerca!schema di|hyperpage}{85}
+\indexentry{schema!di ricerca|hyperpage}{85}
+\indexentry{attraversamento|hyperpage}{85}
+\indexentry{in, operatore|hyperpage}{85}
+\indexentry{operatore!in|hyperpage}{85}
+\indexentry{generalizzazione|hyperpage}{85}
+\indexentry{attraversamento|hyperpage}{86}
+\indexentry{riduzione ad un problema gi\IeC {\`a} risolto|hyperpage}{86}
+\indexentry{tecnica di sviluppo!riduzione|hyperpage}{86}
+\indexentry{ciclo!con indici|hyperpage}{86}
+\indexentry{indice!nei cicli|hyperpage}{86}
+\indexentry{palindromo|hyperpage}{87}
+\indexentry{riduzione ad un problema gi\IeC {\`a} risolto|hyperpage}{87}
+\indexentry{tecnica di sviluppo!riduzione|hyperpage}{87}
+\indexentry{debug|hyperpage}{87}
+\indexentry{test!difficolt\IeC {\`a}|hyperpage}{87}
+\indexentry{programma!test|hyperpage}{87}
+\indexentry{caso!particolare|hyperpage}{87}
+\indexentry{test!e assenza di bug|hyperpage}{88}
+\indexentry{Dijkstra, Edsger|hyperpage}{88}
+\indexentry{oggetto!file|hyperpage}{88}
+\indexentry{riduzione ad un problema gi\IeC {\`a} risolto|hyperpage}{88}
+\indexentry{tecnica di sviluppo!riduzione|hyperpage}{88}
+\indexentry{caso!particolare|hyperpage}{88}
+\indexentry{Car Talk|hyperpage}{88}
+\indexentry{quesito|hyperpage}{88}
+\indexentry{lettere!doppie|hyperpage}{88}
+\indexentry{Car Talk|hyperpage}{88}
+\indexentry{Puzzler|hyperpage}{88}
+\indexentry{contachilometri|hyperpage}{88}
+\indexentry{palindromo|hyperpage}{88}
+\indexentry{Car Talk|hyperpage}{89}
+\indexentry{Puzzler|hyperpage}{89}
+\indexentry{palindromo|hyperpage}{89}
+\indexentry{lista|hyperpage}{91}
+\indexentry{tipo!list|hyperpage}{91}
+\indexentry{elemento|hyperpage}{91}
+\indexentry{sequenza|hyperpage}{91}
+\indexentry{lista!nidificata|hyperpage}{91}
+\indexentry{lista!vuota|hyperpage}{91}
+\indexentry{assegnazione|hyperpage}{91}
+\indexentry{lista!elemento|hyperpage}{92}
+\indexentry{accesso|hyperpage}{92}
+\indexentry{indice|hyperpage}{92}
+\indexentry{parentesi quadre, operatore|hyperpage}{92}
+\indexentry{operatore!parentesi quadre|hyperpage}{92}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{92}
+\indexentry{indice!inizio da zero|hyperpage}{92}
+\indexentry{zero, indice iniziale|hyperpage}{92}
+\indexentry{diagramma!di stato|hyperpage}{92}
+\indexentry{elemento, assegnazione|hyperpage}{92}
+\indexentry{assegnazione!elemento|hyperpage}{92}
+\indexentry{riassegnazione|hyperpage}{92}
+\indexentry{eccezione!IndexError|hyperpage}{92}
+\indexentry{IndexError|hyperpage}{92}
+\indexentry{lista!indice|hyperpage}{92}
+\indexentry{lista!appartenenza|hyperpage}{92}
+\indexentry{appartenenza!lista|hyperpage}{92}
+\indexentry{in, operatore|hyperpage}{92}
+\indexentry{operatore!in|hyperpage}{92}
+\indexentry{lista!attraversamento|hyperpage}{93}
+\indexentry{attraversamento!lista|hyperpage}{93}
+\indexentry{for, ciclo|hyperpage}{93}
+\indexentry{ciclo!for|hyperpage}{93}
+\indexentry{istruzione!for|hyperpage}{93}
+\indexentry{ciclo!con indici|hyperpage}{93}
+\indexentry{indice!nei cicli|hyperpage}{93}
+\indexentry{elemento!aggiornamento|hyperpage}{93}
+\indexentry{aggiornamento!elemento|hyperpage}{93}
+\indexentry{nidificata, lista|hyperpage}{93}
+\indexentry{lista!nidificata|hyperpage}{93}
+\indexentry{lista!operazione|hyperpage}{93}
+\indexentry{concatenamento!lista|hyperpage}{93}
+\indexentry{lista!concatenamento|hyperpage}{93}
+\indexentry{ripetizione!lista|hyperpage}{93}
+\indexentry{lista!ripetizione|hyperpage}{93}
+\indexentry{slicing!operatore di|hyperpage}{94}
+\indexentry{operatore!di slicing|hyperpage}{94}
+\indexentry{indice!slicing|hyperpage}{94}
+\indexentry{lista!slicing|hyperpage}{94}
+\indexentry{slicing!lista|hyperpage}{94}
+\indexentry{lista!copia|hyperpage}{94}
+\indexentry{slicing!copia|hyperpage}{94}
+\indexentry{copia!slicing|hyperpage}{94}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{94}
+\indexentry{slicing!aggiornamento|hyperpage}{94}
+\indexentry{aggiornamento!slicing|hyperpage}{94}
+\indexentry{lista!metodi|hyperpage}{94}
+\indexentry{metodi delle liste|hyperpage}{94}
+\indexentry{append, metodo|hyperpage}{94}
+\indexentry{metodo!append|hyperpage}{94}
+\indexentry{extend, metodo|hyperpage}{94}
+\indexentry{metodo!extend|hyperpage}{94}
+\indexentry{sort, metodo|hyperpage}{94}
+\indexentry{metodo!sort|hyperpage}{94}
+\indexentry{metodo!vuoto|hyperpage}{94}
+\indexentry{None, valore speciale|hyperpage}{94}
+\indexentry{valore speciale!None|hyperpage}{94}
+\indexentry{aggiornamento!operatore di|hyperpage}{95}
+\indexentry{operatore!di aggiornamento|hyperpage}{95}
+\indexentry{assegnazione!potenziata|hyperpage}{95}
+\indexentry{potenziata, assegnazione|hyperpage}{95}
+\indexentry{accumulatore!somma|hyperpage}{95}
+\indexentry{riduzione, schema|hyperpage}{95}
+\indexentry{schema!riduzione|hyperpage}{95}
+\indexentry{attraversamento|hyperpage}{95}
+\indexentry{accumulatore!lista|hyperpage}{95}
+\indexentry{mappa, schema|hyperpage}{95}
+\indexentry{schema!mappa|hyperpage}{95}
+\indexentry{filtro, schema|hyperpage}{95}
+\indexentry{schema!filtro|hyperpage}{95}
+\indexentry{elemento!cancellazione|hyperpage}{96}
+\indexentry{cancellare, elementi di lista|hyperpage}{96}
+\indexentry{pop, metodo|hyperpage}{96}
+\indexentry{metodo!pop|hyperpage}{96}
+\indexentry{del, operatore|hyperpage}{96}
+\indexentry{operatore!del|hyperpage}{96}
+\indexentry{remove, metodo|hyperpage}{96}
+\indexentry{metodo!remove|hyperpage}{96}
+\indexentry{None, valore speciale|hyperpage}{96}
+\indexentry{valore speciale!None|hyperpage}{96}
+\indexentry{lista|hyperpage}{96}
+\indexentry{stringa|hyperpage}{96}
+\indexentry{sequenza|hyperpage}{96}
+\indexentry{list, funzione|hyperpage}{96}
+\indexentry{funzione!list|hyperpage}{96}
+\indexentry{split, metodo|hyperpage}{97}
+\indexentry{metodo!split|hyperpage}{97}
+\indexentry{argomento!opzionale|hyperpage}{97}
+\indexentry{delimitatore|hyperpage}{97}
+\indexentry{join, metodo|hyperpage}{97}
+\indexentry{metodo!join|hyperpage}{97}
+\indexentry{concatenamento|hyperpage}{97}
+\indexentry{stringa!vuota|hyperpage}{97}
+\indexentry{oggetto|hyperpage}{97}
+\indexentry{valore|hyperpage}{97}
+\indexentry{alias|hyperpage}{97}
+\indexentry{is, operatore|hyperpage}{97}
+\indexentry{operatore!is|hyperpage}{97}
+\indexentry{diagramma!di stato|hyperpage}{98}
+\indexentry{equivalente|hyperpage}{98}
+\indexentry{identit\IeC {\`a}|hyperpage}{98}
+\indexentry{oggetto|hyperpage}{98}
+\indexentry{valore|hyperpage}{98}
+\indexentry{alias|hyperpage}{98}
+\indexentry{riferimento!alias|hyperpage}{98}
+\indexentry{diagramma!di stato|hyperpage}{98}
+\indexentry{riferimento|hyperpage}{98}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{98}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{99}
+\indexentry{lista!come argomento|hyperpage}{99}
+\indexentry{argomento|hyperpage}{99}
+\indexentry{argomento!lista|hyperpage}{99}
+\indexentry{riferimento|hyperpage}{99}
+\indexentry{parametro|hyperpage}{99}
+\indexentry{diagramma!di stack|hyperpage}{99}
+\indexentry{append, metodo|hyperpage}{100}
+\indexentry{metodo!append|hyperpage}{100}
+\indexentry{lista!concatenamento|hyperpage}{100}
+\indexentry{concatenamento!lista|hyperpage}{100}
+\indexentry{slicing!operatore di|hyperpage}{100}
+\indexentry{operatore!di slicing|hyperpage}{100}
+\indexentry{debug|hyperpage}{100}
+\indexentry{sort, metodo|hyperpage}{101}
+\indexentry{metodo!sort|hyperpage}{101}
+\indexentry{alias!copiare per evitare|hyperpage}{101}
+\indexentry{copia!per evitare alias|hyperpage}{101}
+\indexentry{sorted!funzione|hyperpage}{101}
+\indexentry{funzione!sorted|hyperpage}{101}
+\indexentry{lista|hyperpage}{102}
+\indexentry{elemento|hyperpage}{102}
+\indexentry{lista!nidificata|hyperpage}{102}
+\indexentry{accumulatore|hyperpage}{102}
+\indexentry{assegnazione!potenziata|hyperpage}{102}
+\indexentry{attraversamento|hyperpage}{102}
+\indexentry{riduzione, schema|hyperpage}{102}
+\indexentry{schema!riduzione|hyperpage}{102}
+\indexentry{mappa, schema|hyperpage}{102}
+\indexentry{schema!mappa|hyperpage}{102}
+\indexentry{filtro, schema|hyperpage}{102}
+\indexentry{schema!filtro|hyperpage}{102}
+\indexentry{oggetto|hyperpage}{102}
+\indexentry{equivalente|hyperpage}{102}
+\indexentry{identico|hyperpage}{102}
+\indexentry{riferimento|hyperpage}{102}
+\indexentry{alias|hyperpage}{102}
+\indexentry{delimitatore|hyperpage}{102}
+\indexentry{cumulativa, somma|hyperpage}{102}
+\indexentry{anagramma|hyperpage}{103}
+\indexentry{duplicato|hyperpage}{103}
+\indexentry{unicit\IeC {\`a}|hyperpage}{103}
+\indexentry{compleanno, paradosso del|hyperpage}{103}
+\indexentry{random, modulo|hyperpage}{103}
+\indexentry{modulo!random|hyperpage}{103}
+\indexentry{randint, funzione|hyperpage}{103}
+\indexentry{funzione!randint|hyperpage}{103}
+\indexentry{append, metodo|hyperpage}{103}
+\indexentry{metodo!append|hyperpage}{103}
+\indexentry{lista!concatenamento|hyperpage}{103}
+\indexentry{concatenamento!lista|hyperpage}{103}
+\indexentry{appartenenza!ricerca binaria|hyperpage}{103}
+\indexentry{ricerca!binaria|hyperpage}{103}
+\indexentry{appartenenza!ricerca binaria|hyperpage}{103}
+\indexentry{ricerca!binaria|hyperpage}{103}
+\indexentry{bisect, modulo|hyperpage}{104}
+\indexentry{modulo!bisect|hyperpage}{104}
+\indexentry{bifronte, parola|hyperpage}{104}
+\indexentry{incastro, parola|hyperpage}{104}
+\indexentry{dizionario|hyperpage}{105}
+\indexentry{tipo!dict|hyperpage}{105}
+\indexentry{chiave|hyperpage}{105}
+\indexentry{chiave-valore, coppia|hyperpage}{105}
+\indexentry{indice|hyperpage}{105}
+\indexentry{elemento|hyperpage}{105}
+\indexentry{dict, funzione|hyperpage}{105}
+\indexentry{funzione!dict|hyperpage}{105}
+\indexentry{graffe, parentesi|hyperpage}{105}
+\indexentry{parentesi!graffe|hyperpage}{105}
+\indexentry{eccezione!KeyError|hyperpage}{106}
+\indexentry{KeyError|hyperpage}{106}
+\indexentry{len, funzione|hyperpage}{106}
+\indexentry{funzione!len|hyperpage}{106}
+\indexentry{appartenenza!dizionario|hyperpage}{106}
+\indexentry{in, operatore|hyperpage}{106}
+\indexentry{operatore!in|hyperpage}{106}
+\indexentry{values, metodo|hyperpage}{106}
+\indexentry{metodo!values|hyperpage}{106}
+\indexentry{tabella hash|hyperpage}{106}
+\indexentry{contatore|hyperpage}{106}
+\indexentry{implementazione|hyperpage}{107}
+\indexentry{istogramma|hyperpage}{107}
+\indexentry{frequenza|hyperpage}{107}
+\indexentry{attraversamento|hyperpage}{107}
+\indexentry{istogramma|hyperpage}{107}
+\indexentry{get, metodo|hyperpage}{107}
+\indexentry{metodo!get|hyperpage}{107}
+\indexentry{dizionario!ciclo con|hyperpage}{108}
+\indexentry{ciclo!con dizionario|hyperpage}{108}
+\indexentry{attraversamento|hyperpage}{108}
+\indexentry{sorted, funzione|hyperpage}{108}
+\indexentry{funzione!sorted|hyperpage}{108}
+\indexentry{dizionario!lookup|hyperpage}{108}
+\indexentry{dizionario!lookup inverso|hyperpage}{108}
+\indexentry{lookup!dizionario|hyperpage}{108}
+\indexentry{lookup inverso, dizionario|hyperpage}{108}
+\indexentry{ricerca|hyperpage}{109}
+\indexentry{schema!di ricerca|hyperpage}{109}
+\indexentry{raise, istruzione|hyperpage}{109}
+\indexentry{istruzione!raise|hyperpage}{109}
+\indexentry{eccezione!LookupError|hyperpage}{109}
+\indexentry{LookupError|hyperpage}{109}
+\indexentry{traceback|hyperpage}{109}
+\indexentry{argomento!opzionale|hyperpage}{109}
+\indexentry{dizionario!inverso|hyperpage}{109}
+\indexentry{singleton|hyperpage}{110}
+\indexentry{diagramma!di stato|hyperpage}{110}
+\indexentry{TypeError|hyperpage}{110}
+\indexentry{eccezione!TypeError|hyperpage}{110}
+\indexentry{hash, funzione|hyperpage}{110}
+\indexentry{hashing|hyperpage}{110}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{110}
+\indexentry{fibonacci, funzione|hyperpage}{111}
+\indexentry{funzione!fibonacci|hyperpage}{111}
+\indexentry{funzione!frame di|hyperpage}{111}
+\indexentry{frame|hyperpage}{111}
+\indexentry{grafico di chiamata|hyperpage}{111}
+\indexentry{memoizzazione|hyperpage}{111}
+\indexentry{variabile!globale|hyperpage}{112}
+\indexentry{flag|hyperpage}{112}
+\indexentry{main|hyperpage}{112}
+\indexentry{riassegnazione|hyperpage}{112}
+\indexentry{global, istruzione|hyperpage}{112}
+\indexentry{istruzione!global|hyperpage}{112}
+\indexentry{dichiarazione|hyperpage}{112}
+\indexentry{aggiornamento!variabile globale|hyperpage}{113}
+\indexentry{variabile!globale!aggiornamento|hyperpage}{113}
+\indexentry{UnboundLocalError|hyperpage}{113}
+\indexentry{eccezione!UnboundLocalError|hyperpage}{113}
+\indexentry{contatore|hyperpage}{113}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{113}
+\indexentry{debug|hyperpage}{113}
+\indexentry{congruenza, controllo di|hyperpage}{114}
+\indexentry{coerenza, controllo di|hyperpage}{114}
+\indexentry{bella copia|hyperpage}{114}
+\indexentry{pprint, modulo|hyperpage}{114}
+\indexentry{modulo!pprint|hyperpage}{114}
+\indexentry{impalcatura|hyperpage}{114}
+\indexentry{mappatura|hyperpage}{114}
+\indexentry{dizionario|hyperpage}{114}
+\indexentry{chiave-valore, coppia|hyperpage}{114}
+\indexentry{elemento!dizionario|hyperpage}{114}
+\indexentry{chiave|hyperpage}{114}
+\indexentry{valore|hyperpage}{114}
+\indexentry{implementazione|hyperpage}{114}
+\indexentry{tabella hash|hyperpage}{114}
+\indexentry{hash, funzione|hyperpage}{114}
+\indexentry{hashing|hyperpage}{114}
+\indexentry{lookup|hyperpage}{114}
+\indexentry{lookup inverso|hyperpage}{114}
+\indexentry{singleton|hyperpage}{114}
+\indexentry{chiamata, grafico di|hyperpage}{114}
+\indexentry{diagramma!grafico di chiamata|hyperpage}{114}
+\indexentry{memoizzazione|hyperpage}{115}
+\indexentry{globale, variabile|hyperpage}{115}
+\indexentry{global, istruzione|hyperpage}{115}
+\indexentry{istruzione!global|hyperpage}{115}
+\indexentry{flag|hyperpage}{115}
+\indexentry{dichiarazione|hyperpage}{115}
+\indexentry{insieme di appartenenza|hyperpage}{115}
+\indexentry{appartenenza!insieme di|hyperpage}{115}
+\indexentry{setdefault, metodo|hyperpage}{115}
+\indexentry{metodo!setdefault|hyperpage}{115}
+\indexentry{Ackermann, funzione di|hyperpage}{115}
+\indexentry{funzione!ack|hyperpage}{115}
+\indexentry{duplicato|hyperpage}{115}
+\indexentry{lettere!rotazione|hyperpage}{115}
+\indexentry{rotazione!lettere|hyperpage}{115}
+\indexentry{Car Talk|hyperpage}{115}
+\indexentry{Puzzler|hyperpage}{115}
+\indexentry{omofono|hyperpage}{116}
+\indexentry{riducibile, parola|hyperpage}{116}
+\indexentry{parola, riducibile|hyperpage}{116}
+\indexentry{tupla|hyperpage}{117}
+\indexentry{tipo!tuple|hyperpage}{117}
+\indexentry{sequenza|hyperpage}{117}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{117}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{117}
+\indexentry{parentesi!tuple in|hyperpage}{117}
+\indexentry{singleton|hyperpage}{117}
+\indexentry{tupla!singleton|hyperpage}{117}
+\indexentry{tuple, funzione|hyperpage}{117}
+\indexentry{funzione!tuple|hyperpage}{117}
+\indexentry{parentesi quadre, operatore|hyperpage}{118}
+\indexentry{operatore!parentesi quadre|hyperpage}{118}
+\indexentry{slicing!operatore di|hyperpage}{118}
+\indexentry{operatore!di slicing|hyperpage}{118}
+\indexentry{tupla!slicing|hyperpage}{118}
+\indexentry{slicing!tupla|hyperpage}{118}
+\indexentry{eccezione!TypeError|hyperpage}{118}
+\indexentry{TypeError|hyperpage}{118}
+\indexentry{elemento!assegnazione|hyperpage}{118}
+\indexentry{assegnazione!elemento|hyperpage}{118}
+\indexentry{tupla!assegnazione|hyperpage}{118}
+\indexentry{assegnazione!tupla|hyperpage}{118}
+\indexentry{scambio, schema di|hyperpage}{118}
+\indexentry{schema!di scambio|hyperpage}{118}
+\indexentry{eccezione!ValueError|hyperpage}{119}
+\indexentry{ValueError|hyperpage}{119}
+\indexentry{split, metodo|hyperpage}{119}
+\indexentry{metodo!split|hyperpage}{119}
+\indexentry{email, indirizzo|hyperpage}{119}
+\indexentry{tupla|hyperpage}{119}
+\indexentry{valore!tupla|hyperpage}{119}
+\indexentry{valore di ritorno!tupla|hyperpage}{119}
+\indexentry{funzione!tupla come valore di ritorno|hyperpage}{119}
+\indexentry{divmod|hyperpage}{119}
+\indexentry{tupla!assegnazione|hyperpage}{119}
+\indexentry{assegnazione!tupla|hyperpage}{119}
+\indexentry{max, funzione|hyperpage}{119}
+\indexentry{funzione!max|hyperpage}{119}
+\indexentry{min, funzione|hyperpage}{119}
+\indexentry{funzione!min|hyperpage}{119}
+\indexentry{lunghezza variabile, tupla di argomenti|hyperpage}{120}
+\indexentry{argomento!tupla di lunghezza variabile|hyperpage}{120}
+\indexentry{raccolta|hyperpage}{120}
+\indexentry{parametro!raccolta|hyperpage}{120}
+\indexentry{argomento!raccolta|hyperpage}{120}
+\indexentry{spacchettamento|hyperpage}{120}
+\indexentry{argomento!spacchettamento|hyperpage}{120}
+\indexentry{TypeError|hyperpage}{120}
+\indexentry{eccezione!TypeError|hyperpage}{120}
+\indexentry{max, funzione|hyperpage}{120}
+\indexentry{funzione!max|hyperpage}{120}
+\indexentry{min, funzione|hyperpage}{120}
+\indexentry{funzione!min|hyperpage}{120}
+\indexentry{sum, funzione|hyperpage}{120}
+\indexentry{funzione!sum|hyperpage}{120}
+\indexentry{zip, funzione|hyperpage}{120}
+\indexentry{funzione!zip|hyperpage}{120}
+\indexentry{iteratore|hyperpage}{121}
+\indexentry{lista!di tuple|hyperpage}{121}
+\indexentry{attraversamento|hyperpage}{121}
+\indexentry{tupla!assegnazione|hyperpage}{121}
+\indexentry{assegnazione!tupla|hyperpage}{121}
+\indexentry{ciclo|hyperpage}{121}
+\indexentry{for, ciclo|hyperpage}{121}
+\indexentry{attraversamento|hyperpage}{121}
+\indexentry{enumerate, funzione|hyperpage}{121}
+\indexentry{funzione!enumerate|hyperpage}{121}
+\indexentry{iteratore|hyperpage}{121}
+\indexentry{oggetto!enumerate|hyperpage}{121}
+\indexentry{enumerate, oggetto|hyperpage}{121}
+\indexentry{dizionario|hyperpage}{122}
+\indexentry{items, metodo|hyperpage}{122}
+\indexentry{metodo!items|hyperpage}{122}
+\indexentry{chiave-valore, coppia|hyperpage}{122}
+\indexentry{iteratore|hyperpage}{122}
+\indexentry{dizionario!inizializzazione|hyperpage}{122}
+\indexentry{zip, funzione!uso con dict|hyperpage}{122}
+\indexentry{update, metodo|hyperpage}{122}
+\indexentry{metodo!update|hyperpage}{122}
+\indexentry{attraversamento!dizionario|hyperpage}{122}
+\indexentry{dizionario!attraversamento|hyperpage}{122}
+\indexentry{tupla!come chiave di dizionario|hyperpage}{122}
+\indexentry{hashing|hyperpage}{122}
+\indexentry{tupla!in parentesi quadre|hyperpage}{122}
+\indexentry{diagramma!di stato|hyperpage}{122}
+\indexentry{sequenza|hyperpage}{123}
+\indexentry{stringa|hyperpage}{123}
+\indexentry{lista|hyperpage}{123}
+\indexentry{tupla|hyperpage}{123}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{123}
+\indexentry{immutabilit\IeC {\`a}|hyperpage}{123}
+\indexentry{sorted, funzione|hyperpage}{123}
+\indexentry{funzione!sorted|hyperpage}{123}
+\indexentry{reversed, funzione|hyperpage}{123}
+\indexentry{funzione!reversed|hyperpage}{123}
+\indexentry{iteratore|hyperpage}{123}
+\indexentry{debug|hyperpage}{124}
+\indexentry{struttura di dati|hyperpage}{124}
+\indexentry{formato, errore di|hyperpage}{124}
+\indexentry{errore!di formato|hyperpage}{124}
+\indexentry{structshape, modulo|hyperpage}{124}
+\indexentry{modulo!structshape|hyperpage}{124}
+\indexentry{tupla|hyperpage}{124}
+\indexentry{tupla!assegnazione|hyperpage}{125}
+\indexentry{assegnazione!tupla|hyperpage}{125}
+\indexentry{raccolta|hyperpage}{125}
+\indexentry{spacchettamento|hyperpage}{125}
+\indexentry{zip, oggetto|hyperpage}{125}
+\indexentry{oggetto!zip|hyperpage}{125}
+\indexentry{iteratore|hyperpage}{125}
+\indexentry{struttura di dati|hyperpage}{125}
+\indexentry{formato|hyperpage}{125}
+\indexentry{lettere!frequenza|hyperpage}{125}
+\indexentry{frequenza!di lettere|hyperpage}{125}
+\indexentry{anagramma, insieme|hyperpage}{125}
+\indexentry{insieme!anagramma|hyperpage}{125}
+\indexentry{Scarabeo|hyperpage}{125}
+\indexentry{metatesi|hyperpage}{126}
+\indexentry{Car Talk|hyperpage}{126}
+\indexentry{Puzzler|hyperpage}{126}
+\indexentry{parola, riducibile|hyperpage}{126}
+\indexentry{definizione!ricorsiva|hyperpage}{126}
+\indexentry{string, modulo|hyperpage}{127}
+\indexentry{modulo!string|hyperpage}{127}
+\indexentry{strip, metodo|hyperpage}{127}
+\indexentry{metodo!strip|hyperpage}{127}
+\indexentry{replace, metodo|hyperpage}{127}
+\indexentry{metodo!replace|hyperpage}{127}
+\indexentry{translate, metodo|hyperpage}{127}
+\indexentry{metodo!translate|hyperpage}{127}
+\indexentry{Progetto Gutenberg|hyperpage}{127}
+\indexentry{testo!semplice|hyperpage}{127}
+\indexentry{parola, frequenza|hyperpage}{127}
+\indexentry{frequenza!di parole|hyperpage}{127}
+\indexentry{numero casuale|hyperpage}{128}
+\indexentry{deterministico|hyperpage}{128}
+\indexentry{pseudocasuale|hyperpage}{128}
+\indexentry{random, modulo|hyperpage}{128}
+\indexentry{modulo!random|hyperpage}{128}
+\indexentry{random, funzione|hyperpage}{128}
+\indexentry{funzione!random|hyperpage}{128}
+\indexentry{randint, funzione|hyperpage}{128}
+\indexentry{funzione!randint|hyperpage}{128}
+\indexentry{choice, funzione|hyperpage}{128}
+\indexentry{funzione!choice|hyperpage}{128}
+\indexentry{istogramma!scelta casuale|hyperpage}{129}
+\indexentry{istogramma!frequenza delle parole|hyperpage}{129}
+\indexentry{Austin, Jane|hyperpage}{129}
+\indexentry{accumulatore!istogramma|hyperpage}{129}
+\indexentry{attraversamento|hyperpage}{129}
+\indexentry{aggiornamento!istogramma|hyperpage}{130}
+\indexentry{parametro!opzionale|hyperpage}{131}
+\indexentry{funzione!personalizzata|hyperpage}{131}
+\indexentry{valore di default|hyperpage}{131}
+\indexentry{sovrascrittura|hyperpage}{131}
+\indexentry{dizionario!sottrazione|hyperpage}{131}
+\indexentry{sottrazione!dizionario|hyperpage}{131}
+\indexentry{insieme|hyperpage}{132}
+\indexentry{tipo!set|hyperpage}{132}
+\indexentry{istogramma!scelta casuale|hyperpage}{132}
+\indexentry{algoritmo|hyperpage}{133}
+\indexentry{Markov, analisi di|hyperpage}{133}
+\indexentry{prefisso|hyperpage}{133}
+\indexentry{suffisso|hyperpage}{133}
+\indexentry{mappatura|hyperpage}{133}
+\indexentry{testo!casuale|hyperpage}{133}
+\indexentry{minestrone|hyperpage}{134}
+\indexentry{struttura di dati|hyperpage}{134}
+\indexentry{implementazione|hyperpage}{134}
+\indexentry{tupla!come chiave di dizionario|hyperpage}{134}
+\indexentry{benchmarking|hyperpage}{135}
+\indexentry{profile, modulo|hyperpage}{135}
+\indexentry{modulo!profile|hyperpage}{135}
+\indexentry{debug|hyperpage}{135}
+\indexentry{errore!di battitura|hyperpage}{136}
+\indexentry{debug!sperimentale|hyperpage}{136}
+\indexentry{tecnica di sviluppo!programmazione a tentoni|hyperpage}{136}
+\indexentry{deterministico|hyperpage}{136}
+\indexentry{pseudocasuale|hyperpage}{137}
+\indexentry{default, valore di|hyperpage}{137}
+\indexentry{sovrascrittura|hyperpage}{137}
+\indexentry{benchmarking|hyperpage}{137}
+\indexentry{debug!con la papera di gomma|hyperpage}{137}
+\indexentry{frequenza!di parole|hyperpage}{137}
+\indexentry{Zipf, legge di|hyperpage}{137}
+\indexentry{logaritmo|hyperpage}{137}
+\indexentry{Matplotlib|hyperpage}{137}
+\indexentry{file|hyperpage}{139}
+\indexentry{tipo!file|hyperpage}{139}
+\indexentry{persistenza|hyperpage}{139}
+\indexentry{pickle, modulo|hyperpage}{139}
+\indexentry{modulo!pickle|hyperpage}{139}
+\indexentry{file!lettura e scrittura|hyperpage}{139}
+\indexentry{open, funzione|hyperpage}{139}
+\indexentry{funzione!open|hyperpage}{139}
+\indexentry{close, metodo|hyperpage}{140}
+\indexentry{metodo!close|hyperpage}{140}
+\indexentry{formato!operatore di|hyperpage}{140}
+\indexentry{operatore!di formato|hyperpage}{140}
+\indexentry{formato!stringa di|hyperpage}{140}
+\indexentry{stringa!di formato|hyperpage}{140}
+\indexentry{formato!sequenza di|hyperpage}{140}
+\indexentry{sequenza!di formato|hyperpage}{140}
+\indexentry{eccezione!TypeError|hyperpage}{141}
+\indexentry{TypeError|hyperpage}{141}
+\indexentry{file!nome|hyperpage}{141}
+\indexentry{percorso|hyperpage}{141}
+\indexentry{directory|hyperpage}{141}
+\indexentry{cartella|hyperpage}{141}
+\indexentry{os, modulo|hyperpage}{141}
+\indexentry{modulo!os|hyperpage}{141}
+\indexentry{getcwd, funzione|hyperpage}{141}
+\indexentry{funzione!getcwd|hyperpage}{141}
+\indexentry{lavoro, directory di|hyperpage}{141}
+\indexentry{directory!di lavoro|hyperpage}{141}
+\indexentry{percorso!relativo|hyperpage}{141}
+\indexentry{percorso!assoluto|hyperpage}{141}
+\indexentry{exists, funzione|hyperpage}{142}
+\indexentry{funzione!exists|hyperpage}{142}
+\indexentry{directory!esplorazione|hyperpage}{142}
+\indexentry{open, funzione|hyperpage}{142}
+\indexentry{funzione!open|hyperpage}{142}
+\indexentry{eccezione!IOError|hyperpage}{142}
+\indexentry{IOError|hyperpage}{142}
+\indexentry{file!permesso|hyperpage}{142}
+\indexentry{permesso, accesso a file|hyperpage}{142}
+\indexentry{eccezione, gestione|hyperpage}{143}
+\indexentry{try, istruzione|hyperpage}{143}
+\indexentry{istruzione!try|hyperpage}{143}
+\indexentry{database|hyperpage}{143}
+\indexentry{dbm, modulo|hyperpage}{143}
+\indexentry{modulo!dbm|hyperpage}{143}
+\indexentry{open, funzione|hyperpage}{143}
+\indexentry{funzione!open|hyperpage}{143}
+\indexentry{database, oggetto|hyperpage}{143}
+\indexentry{oggetto!database|hyperpage}{143}
+\indexentry{aggiornamento!di database|hyperpage}{143}
+\indexentry{bytes, oggetto|hyperpage}{143}
+\indexentry{oggetto!bytes|hyperpage}{143}
+\indexentry{dizionario, metodi!anydbm, modulo|hyperpage}{144}
+\indexentry{close, metodo|hyperpage}{144}
+\indexentry{metodo!close|hyperpage}{144}
+\indexentry{pickling|hyperpage}{144}
+\indexentry{pickle, modulo|hyperpage}{144}
+\indexentry{modulo!pickle|hyperpage}{144}
+\indexentry{shelve, modulo|hyperpage}{144}
+\indexentry{modulo!shelve|hyperpage}{144}
+\indexentry{shell|hyperpage}{145}
+\indexentry{pipe|hyperpage}{145}
+\indexentry{ls (comando Unix)|hyperpage}{145}
+\indexentry{comando Unix!ls|hyperpage}{145}
+\indexentry{popen, funzione|hyperpage}{145}
+\indexentry{funzione!popen|hyperpage}{145}
+\indexentry{readline, metodo|hyperpage}{145}
+\indexentry{metodo!readline|hyperpage}{145}
+\indexentry{read, metodo|hyperpage}{145}
+\indexentry{metodo!read|hyperpage}{145}
+\indexentry{close, metodo|hyperpage}{145}
+\indexentry{metodo!close|hyperpage}{145}
+\indexentry{md5|hyperpage}{145}
+\indexentry{checksum|hyperpage}{145}
+\indexentry{modulo, scrittura|hyperpage}{145}
+\indexentry{conteggio|hyperpage}{145}
+\indexentry{oggetto!modulo|hyperpage}{146}
+\indexentry{import, istruzione|hyperpage}{146}
+\indexentry{istruzione!import|hyperpage}{146}
+\indexentry{name, variabile predefinita|hyperpage}{146}
+\indexentry{main|hyperpage}{146}
+\indexentry{modulo!reload|hyperpage}{146}
+\indexentry{reload, funzione|hyperpage}{146}
+\indexentry{funzione!reload|hyperpage}{146}
+\indexentry{debug|hyperpage}{146}
+\indexentry{spaziatore|hyperpage}{146}
+\indexentry{repr, funzione|hyperpage}{147}
+\indexentry{funzione!repr|hyperpage}{147}
+\indexentry{stringa!rappresentazione|hyperpage}{147}
+\indexentry{fine riga, carattere|hyperpage}{147}
+\indexentry{persistenza|hyperpage}{147}
+\indexentry{operatore!di formato|hyperpage}{147}
+\indexentry{stringa!di formato|hyperpage}{147}
+\indexentry{sequenza!di formato|hyperpage}{147}
+\indexentry{file!di testo|hyperpage}{147}
+\indexentry{directory|hyperpage}{147}
+\indexentry{percorso|hyperpage}{147}
+\indexentry{percorso!relativo|hyperpage}{147}
+\indexentry{percorso!assoluto|hyperpage}{147}
+\indexentry{gestire|hyperpage}{147}
+\indexentry{database|hyperpage}{147}
+\indexentry{bytes, oggetto|hyperpage}{147}
+\indexentry{oggetto!bytes|hyperpage}{147}
+\indexentry{shell|hyperpage}{148}
+\indexentry{pipe, oggetto|hyperpage}{148}
+\indexentry{oggetto!pipe|hyperpage}{148}
+\indexentry{anagramma, insieme|hyperpage}{148}
+\indexentry{insieme!anagramma|hyperpage}{148}
+\indexentry{MP3|hyperpage}{148}
+\indexentry{duplicato|hyperpage}{148}
+\indexentry{md5, algoritmo|hyperpage}{148}
+\indexentry{algoritmo!md5|hyperpage}{148}
+\indexentry{checksum|hyperpage}{148}
+\indexentry{md5sum|hyperpage}{148}
+\indexentry{diff|hyperpage}{148}
+\indexentry{programmazione!orientata agli oggetti|hyperpage}{149}
+\indexentry{tipo!personalizzato|hyperpage}{149}
+\indexentry{punto, matematico|hyperpage}{149}
+\indexentry{rappresentazione|hyperpage}{149}
+\indexentry{classe|hyperpage}{149}
+\indexentry{oggetto!classe|hyperpage}{149}
+\indexentry{classe!definizione di|hyperpage}{149}
+\indexentry{definizione!di classe|hyperpage}{149}
+\indexentry{Punto, classe|hyperpage}{150}
+\indexentry{classe!Punto|hyperpage}{150}
+\indexentry{docstring|hyperpage}{150}
+\indexentry{oggetto!classe|hyperpage}{150}
+\indexentry{istanza|hyperpage}{150}
+\indexentry{istanziare|hyperpage}{150}
+\indexentry{esadecimale|hyperpage}{150}
+\indexentry{istanza!attributo di|hyperpage}{150}
+\indexentry{attributo!di istanza|hyperpage}{150}
+\indexentry{dot notation|hyperpage}{150}
+\indexentry{diagramma!di stato|hyperpage}{150}
+\indexentry{diagramma!di oggetto|hyperpage}{150}
+\indexentry{istanza!come argomento|hyperpage}{151}
+\indexentry{alias|hyperpage}{151}
+\indexentry{rappresentazione|hyperpage}{151}
+\indexentry{Rettangolo, classe|hyperpage}{151}
+\indexentry{classe!Rettangolo|hyperpage}{151}
+\indexentry{diagramma!di stato|hyperpage}{152}
+\indexentry{diagramma!di oggetto|hyperpage}{152}
+\indexentry{oggetto contenuto (embedded)|hyperpage}{152}
+\indexentry{istanza!come valore di ritorno|hyperpage}{152}
+\indexentry{valore di ritorno|hyperpage}{152}
+\indexentry{oggetto!mutabile|hyperpage}{153}
+\indexentry{mutabilit\IeC {\`a}|hyperpage}{153}
+\indexentry{alias|hyperpage}{153}
+\indexentry{copia!di un oggetto|hyperpage}{153}
+\indexentry{oggetto!copia|hyperpage}{153}
+\indexentry{copy, modulo|hyperpage}{153}
+\indexentry{modulo!copy|hyperpage}{153}
+\indexentry{is, operatore|hyperpage}{154}
+\indexentry{operatore!is|hyperpage}{154}
+\indexentry{identit\IeC {\`a}|hyperpage}{154}
+\indexentry{equivalenza|hyperpage}{154}
+\indexentry{oggetto contenuto (embedded)!copia|hyperpage}{154}
+\indexentry{diagramma!di stato|hyperpage}{154}
+\indexentry{diagramma!di oggetto|hyperpage}{154}
+\indexentry{shallow, copia|hyperpage}{154}
+\indexentry{copia!shallow|hyperpage}{154}
+\indexentry{profonda, copia|hyperpage}{154}
+\indexentry{copia!profonda|hyperpage}{154}
+\indexentry{deepcopy, funzione|hyperpage}{154}
+\indexentry{funzione!deepcopy|hyperpage}{154}
+\indexentry{debug|hyperpage}{155}
+\indexentry{eccezione!AttributeError|hyperpage}{155}
+\indexentry{AttributeError|hyperpage}{155}
+\indexentry{type, funzione|hyperpage}{155}
+\indexentry{funzione!type|hyperpage}{155}
+\indexentry{isinstance, funzione|hyperpage}{155}
+\indexentry{funzione!isinstance|hyperpage}{155}
+\indexentry{hasattr, funzione|hyperpage}{155}
+\indexentry{funzione!hasattr|hyperpage}{155}
+\indexentry{attributo|hyperpage}{155}
+\indexentry{try, istruzione|hyperpage}{155}
+\indexentry{istruzione!try|hyperpage}{155}
+\indexentry{classe|hyperpage}{155}
+\indexentry{tipo!personalizzato|hyperpage}{155}
+\indexentry{oggetto!classe|hyperpage}{155}
+\indexentry{istanza|hyperpage}{155}
+\indexentry{istanziare|hyperpage}{155}
+\indexentry{attributo!istanza|hyperpage}{155}
+\indexentry{istanza!attributo di|hyperpage}{155}
+\indexentry{oggetto contenuto (embedded)|hyperpage}{155}
+\indexentry{copia!shallow|hyperpage}{156}
+\indexentry{copia!profonda|hyperpage}{156}
+\indexentry{diagramma!di oggetto|hyperpage}{156}
+\indexentry{tipo!personalizzato|hyperpage}{157}
+\indexentry{Tempo, classe|hyperpage}{157}
+\indexentry{classe!Tempo|hyperpage}{157}
+\indexentry{diagramma!di stato|hyperpage}{157}
+\indexentry{diagramma!di oggetto|hyperpage}{157}
+\indexentry{prototipo ed evoluzioni|hyperpage}{158}
+\indexentry{tecnica di sviluppo!prototipo ed evoluzioni|hyperpage}{158}
+\indexentry{funzione!pura|hyperpage}{158}
+\indexentry{Monty Python e il Sacro Graal|hyperpage}{158}
+\indexentry{addizione!con riporto|hyperpage}{158}
+\indexentry{modificatore|hyperpage}{159}
+\indexentry{funzione!modificatore|hyperpage}{159}
+\indexentry{incremento|hyperpage}{159}
+\indexentry{caso!particolare|hyperpage}{159}
+\indexentry{stile di programmazione funzionale|hyperpage}{160}
+\indexentry{prototipo ed evoluzioni|hyperpage}{160}
+\indexentry{tecnica di sviluppo!prototipo ed evoluzioni|hyperpage}{160}
+\indexentry{sviluppo pianificato|hyperpage}{160}
+\indexentry{tecnica di sviluppo!pianificato|hyperpage}{160}
+\indexentry{sessagesimale|hyperpage}{160}
+\indexentry{addizione!con riporto|hyperpage}{160}
+\indexentry{divmod|hyperpage}{160}
+\indexentry{coerenza, controllo di|hyperpage}{161}
+\indexentry{sottrazione!con prestito|hyperpage}{161}
+\indexentry{generalizzazione|hyperpage}{161}
+\indexentry{debug|hyperpage}{161}
+\indexentry{invariante|hyperpage}{161}
+\indexentry{raise, istruzione|hyperpage}{162}
+\indexentry{istruzione!raise|hyperpage}{162}
+\indexentry{assert, istruzione|hyperpage}{162}
+\indexentry{istruzione!assert|hyperpage}{162}
+\indexentry{prototipo ed evoluzioni|hyperpage}{162}
+\indexentry{sviluppo pianificato|hyperpage}{162}
+\indexentry{funzione!pura|hyperpage}{162}
+\indexentry{modificatore|hyperpage}{162}
+\indexentry{stile di programmazione funzionale|hyperpage}{162}
+\indexentry{invariante|hyperpage}{162}
+\indexentry{assert, istruzione|hyperpage}{162}
+\indexentry{istruzione!assert|hyperpage}{162}
+\indexentry{cadenza di corsa|hyperpage}{163}
+\indexentry{datetime, modulo|hyperpage}{163}
+\indexentry{modulo!datetime|hyperpage}{163}
+\indexentry{compleanno|hyperpage}{163}
+\indexentry{Giorno del Doppio|hyperpage}{163}
+\indexentry{programmazione!orientata agli oggetti|hyperpage}{165}
+\indexentry{metodo|hyperpage}{166}
+\indexentry{funzione|hyperpage}{166}
+\indexentry{sintassi|hyperpage}{166}
+\indexentry{semantica|hyperpage}{166}
+\indexentry{tipo!personalizzato|hyperpage}{166}
+\indexentry{oggetto!stampa|hyperpage}{166}
+\indexentry{indentazione|hyperpage}{166}
+\indexentry{funzione!sintassi|hyperpage}{166}
+\indexentry{dot notation|hyperpage}{166}
+\indexentry{metodo!sintassi|hyperpage}{167}
+\indexentry{soggetto|hyperpage}{167}
+\indexentry{self (nome di parametro)|hyperpage}{167}
+\indexentry{parametro!self|hyperpage}{167}
+\indexentry{metafora, invocazione di metodo|hyperpage}{167}
+\indexentry{incremento|hyperpage}{167}
+\indexentry{eccezione!TypeError|hyperpage}{168}
+\indexentry{TypeError|hyperpage}{168}
+\indexentry{posizionale, argomento|hyperpage}{168}
+\indexentry{argomento!posizionale|hyperpage}{168}
+\indexentry{other (nome di parametro)|hyperpage}{168}
+\indexentry{parametro!other|hyperpage}{168}
+\indexentry{init, metodo|hyperpage}{168}
+\indexentry{metodo!init|hyperpage}{168}
+\indexentry{parametro!opzionale|hyperpage}{169}
+\indexentry{valore di default|hyperpage}{169}
+\indexentry{sovrascrittura|hyperpage}{169}
+\indexentry{Punto, classe|hyperpage}{169}
+\indexentry{classe!Punto|hyperpage}{169}
+\indexentry{str metodo@\_\_str\_\_, metodo|hyperpage}{169}
+\indexentry{metodo!\_\_str\_\_|hyperpage}{169}
+\indexentry{rappresentazione!di stringa|hyperpage}{169}
+\indexentry{stampa, istruzione di|hyperpage}{169}
+\indexentry{istruzione!di stampa|hyperpage}{169}
+\indexentry{tipo!personalizzato|hyperpage}{170}
+\indexentry{add, metodo|hyperpage}{170}
+\indexentry{metodo!add|hyperpage}{170}
+\indexentry{operator overloading|hyperpage}{170}
+\indexentry{isinstance, funzione|hyperpage}{171}
+\indexentry{funzione!isinstance|hyperpage}{171}
+\indexentry{smistamento in base al tipo|hyperpage}{171}
+\indexentry{commutativit\IeC {\`a}|hyperpage}{171}
+\indexentry{radd, metodo|hyperpage}{171}
+\indexentry{metodo!radd|hyperpage}{171}
+\indexentry{smistamento in base al tipo|hyperpage}{171}
+\indexentry{polimorfismo|hyperpage}{172}
+\indexentry{debug|hyperpage}{172}
+\indexentry{init, metodo|hyperpage}{172}
+\indexentry{attributo!inizializzazione|hyperpage}{172}
+\indexentry{hasattr, funzione|hyperpage}{172}
+\indexentry{funzione!hasattr|hyperpage}{172}
+\indexentry{dict, attributo@\_\_dict\_\_ attributo|hyperpage}{172}
+\indexentry{attributo!\_\_dict\_\_|hyperpage}{172}
+\indexentry{attraversamento!dizionario|hyperpage}{173}
+\indexentry{dizionario!attraversamento|hyperpage}{173}
+\indexentry{getattr, funzione|hyperpage}{173}
+\indexentry{funzione!getattr|hyperpage}{173}
+\indexentry{interfaccia|hyperpage}{173}
+\indexentry{implementazione|hyperpage}{173}
+\indexentry{manutenzione|hyperpage}{173}
+\indexentry{progettazione!orientata agli oggetti|hyperpage}{173}
+\indexentry{attributo|hyperpage}{173}
+\indexentry{linguaggio!orientato agli oggetti|hyperpage}{173}
+\indexentry{programmazione!orientata agli oggetti|hyperpage}{174}
+\indexentry{metodo|hyperpage}{174}
+\indexentry{soggetto|hyperpage}{174}
+\indexentry{posizionale, argomento|hyperpage}{174}
+\indexentry{argomento!posizionale|hyperpage}{174}
+\indexentry{overloading|hyperpage}{174}
+\indexentry{operator overloading|hyperpage}{174}
+\indexentry{smistamento in base al tipo|hyperpage}{174}
+\indexentry{polimorfismo|hyperpage}{174}
+\indexentry{information hiding|hyperpage}{174}
+\indexentry{valore di default!evitare i mutabili|hyperpage}{174}
+\indexentry{oggetto mutabile, come valore di default|hyperpage}{174}
+\indexentry{peggior bug|hyperpage}{174}
+\indexentry{bug!il peggiore|hyperpage}{174}
+\indexentry{Canguro, classe|hyperpage}{174}
+\indexentry{classe!Canguro|hyperpage}{174}
+\indexentry{alias|hyperpage}{174}
+\indexentry{contenuto, oggetto|hyperpage}{174}
+\indexentry{oggetto!contenuto|hyperpage}{174}
+\indexentry{carte da gioco|hyperpage}{175}
+\indexentry{poker|hyperpage}{175}
+\indexentry{mazzo|hyperpage}{175}
+\indexentry{valore (delle carte da gioco)|hyperpage}{175}
+\indexentry{seme|hyperpage}{175}
+\indexentry{codificare|hyperpage}{175}
+\indexentry{criptare|hyperpage}{175}
+\indexentry{corrispondenza|hyperpage}{175}
+\indexentry{rappresentazione|hyperpage}{175}
+\indexentry{Carta, classe|hyperpage}{176}
+\indexentry{classe!Carta|hyperpage}{176}
+\indexentry{init, metodo|hyperpage}{176}
+\indexentry{metodo!init|hyperpage}{176}
+\indexentry{classe!attributo di|hyperpage}{176}
+\indexentry{attributo!di classe|hyperpage}{176}
+\indexentry{istanza!attributo di|hyperpage}{176}
+\indexentry{attributo!di istanza|hyperpage}{176}
+\indexentry{dot notation|hyperpage}{176}
+\indexentry{diagramma!di stato|hyperpage}{177}
+\indexentry{diagramma!di oggetto|hyperpage}{177}
+\indexentry{operatore!relazionale|hyperpage}{177}
+\indexentry{tipo!personalizzato|hyperpage}{177}
+\indexentry{sovrascrittura|hyperpage}{177}
+\indexentry{operator overloading|hyperpage}{177}
+\indexentry{cmp metodo@\_\_lt\_\_, metodo|hyperpage}{177}
+\indexentry{metodo!\_\_lt\_\_|hyperpage}{177}
+\indexentry{tupla!confronto|hyperpage}{178}
+\indexentry{confronto!tupla|hyperpage}{178}
+\indexentry{lista!di oggetti|hyperpage}{178}
+\indexentry{mazzo, carte da gioco|hyperpage}{178}
+\indexentry{init, metodo|hyperpage}{178}
+\indexentry{metodo!init|hyperpage}{178}
+\indexentry{composizione|hyperpage}{178}
+\indexentry{ciclo!nidificato|hyperpage}{178}
+\indexentry{Mazzo, classe|hyperpage}{178}
+\indexentry{classe!Mazzo|hyperpage}{178}
+\indexentry{append, metodo|hyperpage}{178}
+\indexentry{metodo!append|hyperpage}{178}
+\indexentry{str metodo@\_\_str\_\_, metodo|hyperpage}{178}
+\indexentry{metodo!\_\_str\_\_|hyperpage}{178}
+\indexentry{accumulatore!stringa|hyperpage}{179}
+\indexentry{stringa!accumulatore|hyperpage}{179}
+\indexentry{join, metodo|hyperpage}{179}
+\indexentry{metodo!join|hyperpage}{179}
+\indexentry{ritorno a capo|hyperpage}{179}
+\indexentry{pop, metodo|hyperpage}{179}
+\indexentry{metodo!pop|hyperpage}{179}
+\indexentry{append, metodo|hyperpage}{179}
+\indexentry{metodo!append|hyperpage}{179}
+\indexentry{impiallacciatura|hyperpage}{179}
+\indexentry{random, modulo|hyperpage}{180}
+\indexentry{modulo!random|hyperpage}{180}
+\indexentry{shuffle, funzione|hyperpage}{180}
+\indexentry{funzione!shuffle|hyperpage}{180}
+\indexentry{sort, metodo|hyperpage}{180}
+\indexentry{metodo!sort|hyperpage}{180}
+\indexentry{ereditariet\IeC {\`a}|hyperpage}{180}
+\indexentry{programmazione!orientata agli oggetti|hyperpage}{180}
+\indexentry{parentesi!classe madre in|hyperpage}{180}
+\indexentry{Mano, classe|hyperpage}{180}
+\indexentry{classe!Mano|hyperpage}{180}
+\indexentry{madre, classe|hyperpage}{180}
+\indexentry{classe!madre|hyperpage}{180}
+\indexentry{figlia, classe|hyperpage}{180}
+\indexentry{classe!figlia|hyperpage}{180}
+\indexentry{sovrascrittura|hyperpage}{180}
+\indexentry{init, metodo|hyperpage}{180}
+\indexentry{metodo!init|hyperpage}{180}
+\indexentry{incapsulamento|hyperpage}{181}
+\indexentry{IS-A, relazione|hyperpage}{182}
+\indexentry{HAS-A, relazione|hyperpage}{182}
+\indexentry{diagramma!di classe|hyperpage}{182}
+\indexentry{molteplicit\IeC {\`a} (nel diagramma di classe)|hyperpage}{182}
+\indexentry{debug|hyperpage}{182}
+\indexentry{ereditariet\IeC {\`a}|hyperpage}{182}
+\indexentry{flusso di esecuzione|hyperpage}{183}
+\indexentry{mro, metodo|hyperpage}{183}
+\indexentry{metodo!mro|hyperpage}{183}
+\indexentry{ordine di risoluzione dei metodi|hyperpage}{183}
+\indexentry{sovrascrittura|hyperpage}{183}
+\indexentry{interfaccia|hyperpage}{183}
+\indexentry{precondizione|hyperpage}{183}
+\indexentry{postcondizione|hyperpage}{183}
+\indexentry{Liskov, principio di sostituzione|hyperpage}{183}
+\indexentry{tecnica di sviluppo!incapsulamento dei dati|hyperpage}{183}
+\indexentry{incapsulamento!dei dati|hyperpage}{183}
+\indexentry{refactoring|hyperpage}{184}
+\indexentry{codificare|hyperpage}{184}
+\indexentry{classe!attributo di|hyperpage}{184}
+\indexentry{attributo!di classe|hyperpage}{184}
+\indexentry{istanza!attributo di|hyperpage}{185}
+\indexentry{attributo!di istanza|hyperpage}{185}
+\indexentry{impiallacciatura|hyperpage}{185}
+\indexentry{ereditariet\IeC {\`a}|hyperpage}{185}
+\indexentry{classe!madre|hyperpage}{185}
+\indexentry{classe!figlia|hyperpage}{185}
+\indexentry{IS-A, relazione|hyperpage}{185}
+\indexentry{HAS-A, relazione|hyperpage}{185}
+\indexentry{dipendenza, relazione|hyperpage}{185}
+\indexentry{diagramma!di classe|hyperpage}{185}
+\indexentry{molteplicit\IeC {\`a} (nel diagramma di classe)|hyperpage}{185}
+\indexentry{incapsulamento!dei dati|hyperpage}{185}
+\indexentry{tecnica di sviluppo!incapsulamento dei dati|hyperpage}{185}
+\indexentry{poker|hyperpage}{186}
+\indexentry{condizionale, espressione|hyperpage}{189}
+\indexentry{espressione!condizionale|hyperpage}{189}
+\indexentry{NaN|hyperpage}{189}
+\indexentry{floating-point|hyperpage}{189}
+\indexentry{fattoriale|hyperpage}{189}
+\indexentry{funzione!fattoriale|hyperpage}{189}
+\indexentry{opzionale, argomento|hyperpage}{190}
+\indexentry{argomento!opzionale|hyperpage}{190}
+\indexentry{condizionale, istruzione|hyperpage}{190}
+\indexentry{istruzione!condizionale|hyperpage}{190}
+\indexentry{list comprehension|hyperpage}{190}
+\indexentry{lista|hyperpage}{190}
+\indexentry{for, ciclo|hyperpage}{190}
+\indexentry{loop variable|hyperpage}{190}
+\indexentry{filtro, schema|hyperpage}{190}
+\indexentry{schema!filtro|hyperpage}{190}
+\indexentry{debug|hyperpage}{191}
+\indexentry{generator expression|hyperpage}{191}
+\indexentry{generatore, oggetto|hyperpage}{191}
+\indexentry{oggetto!generatore|hyperpage}{191}
+\indexentry{StopIteration|hyperpage}{191}
+\indexentry{eccezione!StopIteration|hyperpage}{191}
+\indexentry{sum, funzione|hyperpage}{191}
+\indexentry{funzione!sum|hyperpage}{191}
+\indexentry{any, funzione|hyperpage}{192}
+\indexentry{funzione!any|hyperpage}{192}
+\indexentry{generator expression|hyperpage}{192}
+\indexentry{schema di ricerca|hyperpage}{192}
+\indexentry{ricerca!schema|hyperpage}{192}
+\indexentry{all, funzione|hyperpage}{192}
+\indexentry{funzione!all|hyperpage}{192}
+\indexentry{sottrazione!di dizionari|hyperpage}{192}
+\indexentry{insieme|hyperpage}{192}
+\indexentry{oggetto!set|hyperpage}{192}
+\indexentry{sottrazione!di insiemi|hyperpage}{192}
+\indexentry{duplicato|hyperpage}{193}
+\indexentry{sottoinsieme|hyperpage}{193}
+\indexentry{contatore|hyperpage}{193}
+\indexentry{oggetto!Counter|hyperpage}{193}
+\indexentry{multiinsieme|hyperpage}{193}
+\indexentry{collections|hyperpage}{193}
+\indexentry{modulo!collections|hyperpage}{193}
+\indexentry{defaultdict|hyperpage}{194}
+\indexentry{oggetto!defaultdict|hyperpage}{194}
+\indexentry{collections|hyperpage}{194}
+\indexentry{modulo!collections|hyperpage}{194}
+\indexentry{factory, funzione|hyperpage}{194}
+\indexentry{setdefault|hyperpage}{195}
+\indexentry{factory, funzione|hyperpage}{195}
+\indexentry{namedtuple|hyperpage}{196}
+\indexentry{tupla!con nome|hyperpage}{196}
+\indexentry{oggetto!namedtuple|hyperpage}{196}
+\indexentry{collections|hyperpage}{196}
+\indexentry{modulo!collections|hyperpage}{196}
+\indexentry{classe, oggetto|hyperpage}{196}
+\indexentry{oggetto!classe|hyperpage}{196}
+\indexentry{ereditariet\IeC {\`a}|hyperpage}{196}
+\indexentry{raccolta|hyperpage}{197}
+\indexentry{posizionale, argomento|hyperpage}{197}
+\indexentry{argomento!posizionale|hyperpage}{197}
+\indexentry{argomento!con nome|hyperpage}{197}
+\indexentry{spacchettamento|hyperpage}{197}
+\indexentry{condizionale, espressione|hyperpage}{197}
+\indexentry{espressione!condizionale|hyperpage}{197}
+\indexentry{list comprehension|hyperpage}{198}
+\indexentry{generator expression|hyperpage}{198}
+\indexentry{factory, funzione|hyperpage}{198}
+\indexentry{debug|hyperpage}{199}
+\indexentry{sintassi!errore di|hyperpage}{199}
+\indexentry{errore!di sintassi|hyperpage}{199}
+\indexentry{errore!in esecuzione|hyperpage}{199}
+\indexentry{errore!di runtime|hyperpage}{199}
+\indexentry{runtime!errore di|hyperpage}{199}
+\indexentry{eccezione|hyperpage}{199}
+\indexentry{semantica!errore di|hyperpage}{199}
+\indexentry{errore!di semantica|hyperpage}{199}
+\indexentry{errore!messaggio di|hyperpage}{199}
+\indexentry{sviluppo incrementale|hyperpage}{199}
+\indexentry{tecnica di sviluppo!incrementale|hyperpage}{199}
+\indexentry{sintassi|hyperpage}{200}
+\indexentry{parola chiave|hyperpage}{200}
+\indexentry{intestazione|hyperpage}{200}
+\indexentry{due punti|hyperpage}{200}
+\indexentry{virgolette|hyperpage}{200}
+\indexentry{stringa!a righe multiple|hyperpage}{200}
+\indexentry{istruzione!condizionale|hyperpage}{200}
+\indexentry{indentazione|hyperpage}{200}
+\indexentry{spazi|hyperpage}{200}
+\indexentry{modulo!reload|hyperpage}{201}
+\indexentry{reload, funzione|hyperpage}{201}
+\indexentry{funzione!reload|hyperpage}{201}
+\indexentry{ciclo!infinito|hyperpage}{201}
+\indexentry{ricorsione!infinita|hyperpage}{201}
+\indexentry{blocco|hyperpage}{201}
+\indexentry{ciclo!infinito|hyperpage}{202}
+\indexentry{condizione|hyperpage}{202}
+\indexentry{ciclo!condizione|hyperpage}{202}
+\indexentry{ricorsione!infinita|hyperpage}{202}
+\indexentry{flusso di esecuzione|hyperpage}{203}
+\indexentry{eccezione|hyperpage}{203}
+\indexentry{errore!in esecuzione|hyperpage}{203}
+\indexentry{traceback|hyperpage}{203}
+\indexentry{NameError|hyperpage}{203}
+\indexentry{eccezione!NameError|hyperpage}{203}
+\indexentry{TypeError|hyperpage}{203}
+\indexentry{eccezione!TypeError|hyperpage}{203}
+\indexentry{indice|hyperpage}{203}
+\indexentry{formato!operatore di|hyperpage}{203}
+\indexentry{operatore!di formato|hyperpage}{203}
+\indexentry{KeyError|hyperpage}{203}
+\indexentry{eccezione!KeyError|hyperpage}{203}
+\indexentry{dizionario|hyperpage}{203}
+\indexentry{AttributeError|hyperpage}{203}
+\indexentry{eccezione!AttributeError|hyperpage}{203}
+\indexentry{IndexError|hyperpage}{204}
+\indexentry{eccezione!IndexError|hyperpage}{204}
+\indexentry{debugger (pdb)|hyperpage}{204}
+\indexentry{pdb (Python debugger)|hyperpage}{204}
+\indexentry{stampa, istruzione di|hyperpage}{204}
+\indexentry{istruzione!di stampa|hyperpage}{204}
+\indexentry{codice morto|hyperpage}{204}
+\indexentry{test!caso di prova minimo|hyperpage}{204}
+\indexentry{caso di prova minimo|hyperpage}{204}
+\indexentry{semantica!errore di|hyperpage}{204}
+\indexentry{errore!di semantica|hyperpage}{204}
+\indexentry{modello mentale|hyperpage}{205}
+\indexentry{espressione!grande e complicata|hyperpage}{205}
+\indexentry{variabile!temporanea|hyperpage}{206}
+\indexentry{ordine delle operazioni|hyperpage}{206}
+\indexentry{precedenza|hyperpage}{206}
+\indexentry{return, istruzione|hyperpage}{206}
+\indexentry{istruzione!return|hyperpage}{206}
+\indexentry{frustrazione|hyperpage}{206}
+\indexentry{rabbia|hyperpage}{206}
+\indexentry{debug!risposta emotiva|hyperpage}{206}
+\indexentry{emotivit\IeC {\`a}, nel debug|hyperpage}{206}
+\indexentry{debug!superstizione|hyperpage}{206}
+\indexentry{programmazione!a tentoni|hyperpage}{206}
+\indexentry{tecnica di sviluppo!programmazione a tentoni|hyperpage}{206}
+\indexentry{algoritmo|hyperpage}{209}
+\indexentry{analisi degli algoritmi|hyperpage}{209}
+\indexentry{Obama, Barack|hyperpage}{209}
+\indexentry{Schmidt, Eric|hyperpage}{209}
+\indexentry{bubble sort|hyperpage}{209}
+\indexentry{radix sort|hyperpage}{209}
+\indexentry{confronto di algoritmi|hyperpage}{209}
+\indexentry{modello di macchina|hyperpage}{209}
+\indexentry{caso!peggiore|hyperpage}{210}
+\indexentry{caso!medio|hyperpage}{210}
+\indexentry{complessit\IeC {\`a}!ordine di|hyperpage}{210}
+\indexentry{operazione dominante|hyperpage}{210}
+\indexentry{esponente|hyperpage}{210}
+\indexentry{coefficiente dominante|hyperpage}{210}
+\indexentry{punto di intersezione|hyperpage}{211}
+\indexentry{O-grande, notazione|hyperpage}{211}
+\indexentry{complessit\IeC {\`a}!lineare|hyperpage}{211}
+\indexentry{complessit\IeC {\`a}!quadratica|hyperpage}{211}
+\indexentry{inefficienza|hyperpage}{211}
+\indexentry{complessit\IeC {\`a}!logaritmica|hyperpage}{211}
+\indexentry{complessit\IeC {\`a}!esponenziale|hyperpage}{211}
+\indexentry{analisi delle primitive|hyperpage}{212}
+\indexentry{indicizzazione|hyperpage}{212}
+\indexentry{stringa!metodi|hyperpage}{212}
+\indexentry{tupla!metodi|hyperpage}{212}
+\indexentry{stringa!concatenamento|hyperpage}{212}
+\indexentry{join@{\tt join}|hyperpage}{213}
+\indexentry{lista!metodi|hyperpage}{213}
+\indexentry{ordinamento|hyperpage}{213}
+\indexentry{dizionario!metodi|hyperpage}{213}
+\indexentry{iteratore|hyperpage}{213}
+\indexentry{ordinamento|hyperpage}{213}
+\indexentry{comparison sort|hyperpage}{213}
+\indexentry{stable sort|hyperpage}{213}
+\indexentry{ricerca|hyperpage}{214}
+\indexentry{ricerca!lineare|hyperpage}{214}
+\indexentry{in, operatore|hyperpage}{214}
+\indexentry{ricerca!binaria|hyperpage}{214}
+\indexentry{tabella hash|hyperpage}{214}
+\indexentry{MappaLineare@{\tt MappaLineare}|hyperpage}{214}
+\indexentry{KeyError|hyperpage}{215}
+\indexentry{RB-albero|hyperpage}{215}
+\indexentry{MappaMigliore@{\tt MappaMigliore}|hyperpage}{215}
+\indexentry{hash, funzione|hyperpage}{216}
+\indexentry{MappaHash|hyperpage}{216}
+\indexentry{rehashing|hyperpage}{217}
+\indexentry{tempo costante|hyperpage}{217}
+\indexentry{costo medio|hyperpage}{217}
+\indexentry{ridimensionamento geometrico|hyperpage}{218}
+\indexentry{analisi degli algoritmi|hyperpage}{218}
+\indexentry{modello di macchina|hyperpage}{218}
+\indexentry{caso peggiore|hyperpage}{218}
+\indexentry{operazione dominante|hyperpage}{218}
+\indexentry{intersezione, punto di|hyperpage}{218}
+\indexentry{complessit\IeC {\`a}, ordine di|hyperpage}{218}
+\indexentry{Big-Oh notation|hyperpage}{218}
+\indexentry{lineare|hyperpage}{218}
+\indexentry{quadratico|hyperpage}{218}
+\indexentry{ricerca|hyperpage}{218}
+\indexentry{tabella hash|hyperpage}{218}
