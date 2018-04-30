@@ -39,7 +39,7 @@ Per creare l'ebook in PDF occorre seguire i seguenti passi:
 $ cd 2.0
 ```
 
-* #eseguire la build usando il Makefile:
+* eseguire la build usando il Makefile:
 
 ```bash
 $ make
@@ -59,7 +59,7 @@ $ cd 2.0
 $ make hevea
 ```
 
-* eseguire il build in `epub`
+* eseguire il build in `epub`:
 
 ```bash
 $ make epub
